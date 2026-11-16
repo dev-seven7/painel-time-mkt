@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Painel do Time</title>
+<meta name="description" content="Quem está com o quê, o que foi entregue e o que está atrasado no marketing do Grupo ROB.">
+<meta name="robots" content="noindex">
+<style>
+:root{--bg:#f4f6fa;--surface:#fff;--surface2:#f8f9fc;--txt:#1a1d24;--muted:#5d6472;--line:#e2e7f0;--accent:#4f5fd8;--ok:#1f9d63;--warn:#b7791f;--bad:#c53030;--chip:#eef0fb}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1115;--surface:#171a21;--surface2:#1d2129;--txt:#e8eaed;--muted:#9aa1ad;--line:#2a2f3a;--accent:#7c8cff;--ok:#3ecf8e;--warn:#e0a84a;--bad:#f07171;--chip:#232838}}
+:root[data-theme="dark"]{--bg:#0f1115;--surface:#171a21;--surface2:#1d2129;--txt:#e8eaed;--muted:#9aa1ad;--line:#2a2f3a;--accent:#7c8cff;--ok:#3ecf8e;--warn:#e0a84a;--bad:#f07171;--chip:#232838}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--txt);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:1180px;margin:0 auto;padding:24px 16px 64px}
+header{display:flex;flex-wrap:wrap;gap:12px;align-items:flex-end;justify-content:space-between;margin-bottom:20px}
+h1{font-size:24px;margin:0;overflow-wrap:anywhere}
+body{overflow-x:hidden}
+.sub{color:var(--muted);font-size:13px}
+.controls{display:flex;gap:8px;flex-wrap:wrap}
+select,button{font:inherit;font-size:13px;background:var(--surface);color:var(--txt);border:1px solid var(--line);border-radius:8px;padding:6px 10px;cursor:pointer}
+button.on{border-color:var(--accent);color:var(--accent)}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(150px,45%),1fr));gap:10px;margin-bottom:24px}
+.kpi{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.kpi b{display:block;font-size:26px;font-variant-numeric:tabular-nums}
+.kpi span{color:var(--muted);font-size:12.5px}
+.kpi.bad b{color:var(--bad)}.kpi.ok b{color:var(--ok)}.kpi.warn b{color:var(--warn)}
+h2{font-size:17px;margin:32px 0 12px}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0 16px}
+.people{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(330px,100%),1fr));gap:14px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px;min-width:0}
+.card h3{margin:0 0 2px;font-size:18px;display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.load{font-size:12px;color:var(--muted);font-weight:400}
+.stats{display:flex;gap:14px;margin:8px 0 10px;font-size:12.5px;color:var(--muted);flex-wrap:wrap}
+.stats b{color:var(--txt);font-variant-numeric:tabular-nums}
+.stats .bad b{color:var(--bad)}.stats .ok b{color:var(--ok)}
+.bar{display:flex;height:6px;border-radius:4px;overflow:hidden;background:var(--line);margin-bottom:12px}
+.bar i{display:block}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+.chip{background:var(--chip);border-radius:20px;padding:2px 10px;font-size:12px;white-space:nowrap}
+.chip b{font-variant-numeric:tabular-nums}
+ul.tasks{list-style:none;margin:0;padding:0}
+ul.tasks li{display:grid;grid-template-columns:auto 1fr;gap:8px;padding:7px 0;border-top:1px solid var(--line);font-size:13.5px}
+ul.tasks a{color:var(--txt);text-decoration:none;overflow-wrap:anywhere}
+ul.tasks a:hover{color:var(--accent)}
+.meta{display:block;color:var(--muted);font-size:12px}
+.meta .late{color:var(--bad);font-weight:600}
+.dot{width:9px;height:9px;border-radius:50%;margin-top:6px}
+.more{margin-top:8px;font-size:12.5px;color:var(--accent);background:none;border:0;padding:0}
+.matrix{overflow-x:auto;background:var(--surface);border:1px solid var(--line);border-radius:12px}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:center;white-space:nowrap}
+th:first-child,td:first-child{text-align:left;position:sticky;left:0;background:var(--surface)}
+td.z{color:var(--line)}
+td.h{font-weight:700}
+.legend{display:flex;gap:12px;flex-wrap:wrap;font-size:12px;color:var(--muted);margin-bottom:10px}
+.legend span{display:inline-flex;align-items:center;gap:5px}
+.legend i{width:9px;height:9px;border-radius:50%;display:inline-block}
+.list{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:4px 16px}
+.empty{color:var(--muted);font-size:13px;padding:10px 0}
+footer{margin-top:40px;color:var(--muted);font-size:12px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div>
+    <h1>Painel do Time · Marketing Grupo ROB</h1>
+    <div class="sub" id="gerado"></div>
+  </div>
+  <div class="controls">
+    <select id="fMarca" aria-label="Filtrar por marca"><option value="">Todas as marcas</option></select>
+    <button id="tema" title="Alternar tema">◐</button>
+  </div>
+</header>
+
+<section class="kpis" id="kpis"></section>
+
+<h2>Quem está com o quê</h2>
+<div class="legend" id="legend"></div>
+<div class="people" id="people"></div>
+
+<h2>Frentes: pessoa × marca</h2>
+<div class="sub" style="margin-bottom:10px">Tarefas abertas de cada pessoa por marca.</div>
+<div class="matrix" id="matrix"></div>
+
+<h2>Atrasadas</h2>
+<div class="sub" style="margin-bottom:10px">Prazo vencido e ainda não entregue. Se a tarefa já foi feita, é só mover pra Done no board.</div>
+<div class="list" id="atrasadas"></div>
+
+<h2>Entregues nos últimos 7 dias</h2>
+<div class="list" id="entregues"></div>
+
+<footer id="rodape"></footer>
+</div>
+
+<script>
+const ST={"In progress":{l:"Fazendo",c:"var(--accent)",o:1},"Attention":{l:"Atenção",c:"var(--bad)",o:0},"In review":{l:"Em revisão",c:"var(--warn)",o:2},"Ready":{l:"Pronta",c:"#8a93a6",o:3},"Backlog":{l:"Backlog",c:"var(--line)",o:4},"Done":{l:"Entregue",c:"var(--ok)",o:5}};
+const ATIVO=["Attention","In progress","In review"], FILA=["Ready","Backlog"];
+const PRI={"P0-Urgente":0,"P1-Alta":1,"P2-Media":2,"P3-Baixa":3};
+let D, marca="";
+const $=s=>document.querySelector(s);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=d=>d?d.slice(8,10)+"/"+d.slice(5,7):"";
+const dias=(a,b)=>Math.round((new Date(b)-new Date(a))/864e5);
+
+try{const t=localStorage.getItem("painel-tema");if(t)document.documentElement.dataset.theme=t}catch(e){}
+$("#tema").onclick=()=>{const r=document.documentElement,dark=r.dataset.theme?r.dataset.theme==="dark":matchMedia("(prefers-color-scheme: dark)").matches;r.dataset.theme=dark?"light":"dark";try{localStorage.setItem("painel-tema",r.dataset.theme)}catch(e){}};
+
+fetch("data.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{D=d;init()}).catch(()=>{$("#people").innerHTML='<div class="empty">Não consegui carregar os dados.</div>'});
+
+function init(){
+  const marcas=[...new Set(D.tarefas.map(t=>t.marca))].sort();
+  $("#fMarca").innerHTML+=marcas.map(m=>`<option>${esc(m)}</option>`).join("");
+  $("#fMarca").onchange=e=>{marca=e.target.value;render()};
+  $("#gerado").textContent=`Atualizado em ${D.gerado_em.slice(8,10)}/${D.gerado_em.slice(5,7)} às ${D.gerado_em.slice(11)} · fonte: board S7 · Trello GH`;
+  $("#legend").innerHTML=Object.values(ST).map(s=>`<span><i style="background:${s.c}"></i>${s.l}</span>`).join("");
+  $("#rodape").textContent=`Fica de fora deste painel: descrição e comentários das tarefas, valores, reuniões, decisões, contratos e assuntos de RH (${D.removidas_por_privacidade} tarefas omitidas). Os links abrem só pra quem tem acesso ao GitHub do time.`;
+  render();
+}
+
+const late=t=>t.status!=="Done"&&t.prazo&&t.prazo<D.hoje;
+const semana=t=>t.status==="Done"&&dias(t.fechada||t.atualizada,D.hoje)<=7;
+const ordem=(a,b)=>(late(b)-late(a))||(ST[a.status].o-ST[b.status].o)||((PRI[a.prioridade]??9)-(PRI[b.prioridade]??9))||((a.prazo||"9")<(b.prazo||"9")?-1:1);
+
+function item(t,quem){
+  const m=[ST[t.status].l,t.marca];
+  if(t.prazo)m.push(late(t)?`<span class="late">atrasada ${dias(t.prazo,D.hoje)}d (prazo ${fmt(t.prazo)})</span>`:"prazo "+fmt(t.prazo));
+  if(t.prioridade&&PRI[t.prioridade]<=1)m.push(t.prioridade.split("-")[1]);
+  if(quem)m.push(t.responsaveis.join(", ")||"sem responsável");
+  if(t.status==="Done")m.push("entregue "+fmt(t.fechada||t.atualizada));
+  return `<li><i class="dot" style="background:${ST[t.status].c}"></i><div><a href="${esc(t.url)}" target="_blank" rel="noopener">${esc(t.titulo)}</a><span class="meta">${m.join(" · ")}</span></div></li>`;
+}
+
+function render(){
+  const T=D.tarefas.filter(t=>!marca||t.marca===marca);
+  const abertas=T.filter(t=>t.status!=="Done");
+  const k=[
+    ["Fazendo agora",T.filter(t=>t.status==="In progress").length,""],
+    ["Pedindo atenção",T.filter(t=>t.status==="Attention").length,"bad"],
+    ["Em revisão",T.filter(t=>t.status==="In review").length,"warn"],
+    ["Atrasadas",T.filter(late).length,"bad"],
+    ["Entregues em 7 dias",T.filter(semana).length,"ok"],
+    ["Na fila",T.filter(t=>FILA.includes(t.status)).length,""]];
+  $("#kpis").innerHTML=k.map(([l,v,c])=>`<div class="kpi ${c}"><b>${v}</b><span>${l}</span></div>`).join("");
+
+  $("#people").innerHTML=D.pessoas.map(p=>{
+    const mine=T.filter(t=>t.responsaveis.includes(p));
+    const ab=mine.filter(t=>t.status!=="Done").sort(ordem);
+    const fazendo=ab.filter(t=>ATIVO.includes(t.status));
+    const atr=ab.filter(late).length, ent=mine.filter(semana).length;
+    const fr={};ab.forEach(t=>fr[t.marca]=(fr[t.marca]||0)+1);
+    const frs=Object.entries(fr).sort((a,b)=>b[1]-a[1]);
+    const seg=Object.keys(ST).filter(s=>s!=="Done").map(s=>{const n=ab.filter(t=>t.status===s).length;return n?`<i style="width:${n/ab.length*100}%;background:${ST[s].c}" title="${ST[s].l}: ${n}"></i>`:""}).join("");
+    const id="p_"+p.normalize("NFD").replace(/[^\w]/g,"");
+    const lista=ab.length?`<ul class="tasks">${ab.slice(0,6).map(t=>item(t)).join("")}</ul>${ab.length>6?`<ul class="tasks" id="${id}" hidden>${ab.slice(6).map(t=>item(t)).join("")}</ul><button class="more" onclick="const e=document.getElementById('${id}');e.hidden=!e.hidden;this.textContent=e.hidden?'ver todas (${ab.length})':'ver menos'">ver todas (${ab.length})</button>`:""}`:'<div class="empty">Nada aberto.</div>';
+    return `<article class="card"><h3>${esc(p)}<span class="load">${fazendo.length} ao mesmo tempo</span></h3>
+      <div class="stats"><span><b>${ab.length}</b> abertas</span><span class="bad"><b>${atr}</b> atrasadas</span><span class="ok"><b>${ent}</b> entregues 7d</span><span><b>${frs.length}</b> frentes</span></div>
+      <div class="bar">${seg}</div>
+      <div class="chips">${frs.map(([m,n])=>`<span class="chip">${esc(m)} <b>${n}</b></span>`).join("")}</div>
+      ${lista}</article>`;
+  }).join("");
+
+  const marcas=[...new Set(abertas.filter(t=>t.responsaveis.some(p=>D.pessoas.includes(p))).map(t=>t.marca))].sort();
+  $("#matrix").innerHTML=`<table><thead><tr><th>Pessoa</th>${marcas.map(m=>`<th>${esc(m)}</th>`).join("")}<th>Total</th></tr></thead><tbody>${D.pessoas.map(p=>{
+    const mine=abertas.filter(t=>t.responsaveis.includes(p));
+    return `<tr><td>${esc(p)}</td>${marcas.map(m=>{const n=mine.filter(t=>t.marca===m).length;return `<td class="${n?(n>=8?"h":""):"z"}">${n||"·"}</td>`}).join("")}<td class="h">${mine.length}</td></tr>`}).join("")}</tbody></table>`;
+
+  const A=T.filter(late).sort((a,b)=>a.prazo<b.prazo?-1:1);
+  $("#atrasadas").innerHTML=A.length?`<ul class="tasks">${A.map(t=>item(t,true)).join("")}</ul>`:'<div class="empty">Nada atrasado.</div>';
+  const E=T.filter(semana).sort((a,b)=>(b.fechada||b.atualizada)>(a.fechada||a.atualizada)?1:-1);
+  $("#entregues").innerHTML=E.length?`<ul class="tasks">${E.map(t=>item(t,true)).join("")}</ul>`:'<div class="empty">Nenhuma entrega marcada como Done nos últimos 7 dias.</div>';
+}
+</script>
+</body>
+</html>

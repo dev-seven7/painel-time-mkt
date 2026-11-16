@@ -1,0 +1,4043 @@
+{
+ "gerado_em": "2026-11-16 20:44",
+ "hoje": "2026-11-16",
+ "pessoas": [
+  "Manu",
+  "Gabi",
+  "Luiza",
+  "Otávio",
+  "Victor"
+ ],
+ "tarefas": [
+  {
+   "titulo": "OGRO · Calendário de Conteúdo · Outubro",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/20",
+   "repo": "cs-ogro-steaks",
+   "marca": "Multimarcas",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-08",
+   "criada": "2026-09-30",
+   "atualizada": "2026-11-07",
+   "fechada": "2026-11-07",
+   "responsaveis": [
+    "Manu",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "LANGS · Calendário Novembro · Langs",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/87",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "In progress",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-11-04",
+   "criada": "2026-11-04",
+   "atualizada": "2026-11-13",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Calendário Novembro · Temakeria",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/249",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "In progress",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-11-04",
+   "criada": "2026-11-04",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OGRO · Estratégia · SWOT + plano de conteúdo foco produto (food porn, bastidores, séries) + TikTok família",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/8",
+   "repo": "cs-ogro-steaks",
+   "marca": "Ogro",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-09",
+   "inicio": "2026-09-11",
+   "criada": "2026-09-11",
+   "atualizada": "2026-11-11",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi",
+    "Victor"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Filme O Gatola da Cartola · caixa do filme + flyers + comunicação",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/242",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Attention",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-23",
+   "inicio": "2026-09-30",
+   "criada": "2026-09-30",
+   "atualizada": "2026-11-12",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "LANGS · Parceria Card Games (Pokémon) · Terça na Langs",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/37",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-07",
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-11-13",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Cupom exclusivo dos stories · acompanhar uso e migrar cliente do marketplace",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/189",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-04",
+   "inicio": "2026-08-25",
+   "criada": "2026-08-25",
+   "atualizada": "2026-10-01",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Araruama · 10 influenciadores (5 permuta + 5 pagos) + database pro Erick validar",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/14",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-02",
+   "inicio": "2026-09-08",
+   "criada": "2026-08-18",
+   "atualizada": "2026-10-08",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Lapa · Definição de influenciadores + database pra inauguração",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/216",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": "2026-09-02",
+   "inicio": "2026-09-08",
+   "criada": "2026-08-28",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Estruturar a base de parceiros institucionais (Øliver's + compartilhado SG com Lang's/Temakeria)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/38",
+   "repo": "cs-olivers",
+   "marca": "Multimarcas",
+   "status": "Done",
+   "prioridade": "P2-Media",
+   "prazo": "2026-09-18",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OGRO · Tráfego pago · Criativos pra ativação da conta de anúncios (Meta)",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/19",
+   "repo": "cs-ogro-steaks",
+   "marca": "Multimarcas",
+   "status": "In review",
+   "prioridade": null,
+   "prazo": "2026-09-30",
+   "inicio": "2026-09-28",
+   "criada": "2026-09-28",
+   "atualizada": "2026-10-06",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Piratininga / Região Oceânica (Michelle) · lançamento da unidade · obra ~50 dias, inauguração em novembro (sem data)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/229",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "In progress",
+   "prioridade": "P1-Alta",
+   "prazo": null,
+   "inicio": "2026-09-11",
+   "criada": "2026-09-11",
+   "atualizada": "2026-11-06",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi",
+    "Luiza"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OGRO · Influenciadores · base de dados (Rio + urbano/rap + dubladores) e outreach",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/5",
+   "repo": "cs-ogro-steaks",
+   "marca": "Ogro",
+   "status": "In progress",
+   "prioridade": "P2-Media",
+   "prazo": null,
+   "inicio": "2026-09-11",
+   "criada": "2026-09-11",
+   "atualizada": "2026-09-11",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi",
+    "Victor"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "ROB · Planejamento do evento de lancamento (Mercoclube, 22/10)",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/16",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Attention",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-11-12",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-09-12",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Calendário Novembro · Aniversário 9 anos, Black Friday, Cyber Monday, Cabo Frio e Niterói",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/240",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "In progress",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-23",
+   "inicio": "2026-09-30",
+   "criada": "2026-09-30",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Gatola da Cartola · Impressos da campanha",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/244",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Attention",
+   "prioridade": null,
+   "prazo": "2026-10-14",
+   "inicio": "2026-09-30",
+   "criada": "2026-09-30",
+   "atualizada": "2026-10-14",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "ROB · Campanha iFood · Fotos dos 15 combos promocionais (Øliver's, Ogro, Temakeria)",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/123",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-07",
+   "criada": "2026-10-07",
+   "atualizada": "2026-10-08",
+   "fechada": "2026-10-08",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "Grupo ROB · Campanha iFood · Black Friday (nov) + Outubro (Øliver's, Ogro, Temakeria)",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/118",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-01",
+   "criada": "2026-10-01",
+   "atualizada": "2026-11-11",
+   "fechada": "2026-10-08",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "LANGS · Calendário Outubro · Langs",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/81",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "In progress",
+   "prioridade": null,
+   "prazo": "2026-10-28",
+   "inicio": "2026-09-30",
+   "criada": "2026-09-30",
+   "atualizada": "2026-11-07",
+   "fechada": "2026-11-07",
+   "responsaveis": [
+    "Manu",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Araruama · Editar criativos · Lançamento Temakeria",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/230",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-08",
+   "inicio": "2026-09-01",
+   "criada": "2026-09-01",
+   "atualizada": "2026-11-07",
+   "fechada": "2026-11-07",
+   "responsaveis": [
+    "Manu",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Setembro · Att comunicação Rodízio + Reservas (benefício estendido)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/203",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-09-14",
+   "inicio": "2026-08-31",
+   "criada": "2026-08-31",
+   "atualizada": "2026-10-08",
+   "fechada": "2026-10-08",
+   "responsaveis": [
+    "Manu",
+    "Luiza"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Calendário Setembro · ØLV",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/208",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-09-06",
+   "inicio": "2026-09-01",
+   "criada": "2026-09-01",
+   "atualizada": "2026-10-05",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "LANGS · Parceiros · Controle mensal · Setembro/2026",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/76",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-09-10",
+   "criada": "2026-09-10",
+   "atualizada": "2026-10-08",
+   "fechada": "2026-10-08",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Lapa · Giveaway de inauguração · Briefing + Design",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/218",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-09-05",
+   "inicio": "2026-08-31",
+   "criada": "2026-08-31",
+   "atualizada": "2026-10-07",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Parceiros · Controle mensal · Setembro/2026",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/182",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P3-Baixa",
+   "prazo": "2026-09-30",
+   "inicio": "2026-08-25",
+   "criada": "2026-08-25",
+   "atualizada": "2026-10-07",
+   "fechada": "2026-10-07",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "LANGS · Parceiros · Controle mensal · Outubro/2026",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/82",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "In progress",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-01",
+   "criada": "2026-10-01",
+   "atualizada": "2026-11-09",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Calendário Outubro · Øliver's",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/238",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-10-28",
+   "inicio": "2026-09-30",
+   "criada": "2026-09-30",
+   "atualizada": "2026-11-07",
+   "fechada": "2026-11-07",
+   "responsaveis": [
+    "Manu",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Calendário Outubro · Temakeria",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/241",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-09-30",
+   "criada": "2026-09-30",
+   "atualizada": "2026-11-07",
+   "fechada": "2026-11-07",
+   "responsaveis": [
+    "Manu",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "ROB · Calendário de Conteúdo Outubro (Instagram)",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/117",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-09-30",
+   "criada": "2026-09-30",
+   "atualizada": "2026-11-07",
+   "fechada": "2026-11-07",
+   "responsaveis": [
+    "Manu",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "Parceiros · Controle mensal · Outubro/2026",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/245",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "In progress",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-01",
+   "criada": "2026-10-01",
+   "atualizada": "2026-11-12",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Parceiros · Controle mensal · Outubro/2026",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/243",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "In progress",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-01",
+   "criada": "2026-10-01",
+   "atualizada": "2026-10-29",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OGRO · Parceiros · Controle mensal · Outubro/2026",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/21",
+   "repo": "cs-ogro-steaks",
+   "marca": "Multimarcas",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-01",
+   "criada": "2026-10-01",
+   "atualizada": "2026-11-11",
+   "fechada": "2026-11-11",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Parceiros · Controle mensal · Setembro/2026",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/227",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-09-05",
+   "inicio": "2026-08-31",
+   "criada": "2026-08-31",
+   "atualizada": "2026-10-07",
+   "fechada": "2026-10-07",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Campanha Øliver's + 99 (promoção/cuponagem)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/164",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-08-27",
+   "inicio": "2026-08-21",
+   "criada": "2026-08-21",
+   "atualizada": "2026-10-08",
+   "fechada": "2026-10-08",
+   "responsaveis": [
+    "Luiza"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "RAJAH · Rotina Social semanal · Otávio + Luiza",
+   "url": "https://github.com/dev-seven7/cs-rajah/issues/5",
+   "repo": "cs-rajah",
+   "marca": "Rajah",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-09-10",
+   "criada": "2026-09-10",
+   "atualizada": "2026-10-14",
+   "fechada": "2026-10-08",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Atualização Website ØLV (por Ghost)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/80",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Backlog",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-08",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-10-09",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Rotina Social semanal · Luiza + Otávio",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/227",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-18",
+   "inicio": "2026-09-09",
+   "criada": "2026-09-09",
+   "atualizada": "2026-10-05",
+   "fechada": "2026-10-05",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Refazer Vídeo Institucional do Youtube · entrar no calendário de setembro",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/125",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Backlog",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-29",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Copa Rio · Cartela de adesivos · Construir o Design",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/215",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-15",
+   "inicio": "2026-09-02",
+   "criada": "2026-09-02",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-09-17",
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Copa Rio · Vouchers de cupom · Construir o Design",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/217",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-08",
+   "inicio": "2026-09-02",
+   "criada": "2026-09-02",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-09-17",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Copa Rio · Roleta premiada · Construir o Design",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/219",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-09",
+   "inicio": "2026-09-02",
+   "criada": "2026-09-02",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-09-17",
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Copa Rio · Eco bag · Construir o Design",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/213",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-07",
+   "inicio": "2026-09-02",
+   "criada": "2026-09-02",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-09-17",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Torta de Limão · Banner do cupom no canal próprio (Accon) · Briefing + Design",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/189",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-03",
+   "inicio": "2026-08-25",
+   "criada": "2026-08-25",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-09-14",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Embalagem + Adesivo · Temakeria Universitária",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/192",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P0-Urgente",
+   "prazo": null,
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-11-09",
+   "fechada": null,
+   "responsaveis": [],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Copacabana · Campanha Presente Copa (LP Banana na Neve) + horário nos canais",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/196",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Attention",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-11-30",
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-11-08",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi",
+    "Luiza"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "Cotar Brindes Da Inauguração TMK",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/76",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-08-26",
+   "inicio": "2026-08-24",
+   "criada": "2026-08-21",
+   "atualizada": "2026-09-11",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "ROB · Calendário de Conteúdo Setembro (Instagram)",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/75",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-21",
+   "inicio": "2026-08-25",
+   "criada": "2026-08-25",
+   "atualizada": "2026-10-05",
+   "fechada": "2026-10-05",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Coyote — Onda 1ª semana set: coordenar disponibilidade (Luísa)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/157",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-03",
+   "inicio": "2026-08-20",
+   "criada": "2026-08-20",
+   "atualizada": "2026-10-06",
+   "fechada": "2026-10-06",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Coyote — Onda 1ª semana set: contatos e confirmações (Manu)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/158",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-03",
+   "inicio": "2026-08-20",
+   "criada": "2026-08-20",
+   "atualizada": "2026-10-06",
+   "fechada": "2026-10-06",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Coyote vs. Acme · Chamado de investimento · Bruxa Cósmica (Lapa, R$ ···)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/201",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-08-31",
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-10-06",
+   "fechada": "2026-10-06",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Lapa · Landing de captação · Briefing + Design",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/193",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "In review",
+   "prioridade": null,
+   "prazo": "2026-08-31",
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-10-09",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Datas + Campanhas 2026",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/147",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "In progress",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-09-30",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Coyote vs. Acme · Fotos comprovatórias da campanha para a agência",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/171",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-21",
+   "inicio": "2026-08-21",
+   "criada": "2026-08-21",
+   "atualizada": "2026-09-22",
+   "fechada": "2026-09-22",
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · ReInauguração CF",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/83",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Backlog",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-25",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "LANGS · Campanha cruzada com Øliver's · degustação + panfleto/cupom em São Gonçalo",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/4",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "In review",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-07",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Campanha cruzada com Øliver's · degustação + panfleto/cupom em São Gonçalo",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/39",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "In review",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-07",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-11-09",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Araruama · Giveaway de inauguracao · Briefing + Design",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/127",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P2-Media",
+   "prazo": "2026-08-26",
+   "inicio": "2026-08-21",
+   "criada": "2026-08-21",
+   "atualizada": "2026-10-06",
+   "fechada": "2026-10-06",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Coyote · Briefing pros parceiros: vídeos À la carte, Delivery e Cinema",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/7",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-02",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Roteiro de abordagem de influenciadores (WhatsApp) · campanhas de agosto",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/28",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-02",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-10-06",
+   "fechada": "2026-10-06",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "ROB · Revitalização dos destaques (highlights) do perfil do Grupo ROB",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/14",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Done",
+   "prioridade": "P2-Media",
+   "prazo": "2026-10-13",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-11-07",
+   "responsaveis": [
+    "Luiza"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Manual de Conteúdo para Parceiros/Influenciadores · Agosto/2026",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/19",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-02",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-10-06",
+   "fechada": "2026-10-06",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Manual do Parceiro + apresentacao Oliver's p/ influencers (4 paginas)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/26",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-02",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-10-06",
+   "fechada": "2026-10-06",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Campanha O Coyote vs. Acme (Paris Filmes) · Øliver's",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/35",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-20",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-10-09",
+   "fechada": "2026-09-22",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Cravar quem fatura a conta TMK",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/2",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Attention",
+   "prioridade": "P2-Media",
+   "prazo": "2026-09-30",
+   "inicio": "2026-08-06",
+   "criada": "2026-08-06",
+   "atualizada": "2026-09-22",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Coletar os acessos da conta",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/5",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P2-Media",
+   "prazo": "2026-09-18",
+   "inicio": "2026-08-06",
+   "criada": "2026-08-06",
+   "atualizada": "2026-09-22",
+   "fechada": "2026-09-22",
+   "responsaveis": [
+    "Gabi",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Rebranding da marca · logo v2.0 e identidade",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/7",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Ready",
+   "prioridade": "P2-Media",
+   "prazo": "2026-09-18",
+   "inicio": "2026-08-12",
+   "criada": "2026-08-12",
+   "atualizada": "2026-11-09",
+   "fechada": null,
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Campanha Torta de Limão",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/39",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-06",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-10-19",
+   "fechada": "2026-10-19",
+   "responsaveis": [
+    "Gabi",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Playbook · Base de lancamento de nova unidade (a partir do case Lapa)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/20",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Backlog",
+   "prioridade": "P2-Media",
+   "prazo": "2026-10-26",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Implementar cultura e manual de pós-venda (fluxo parceiro x cliente)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/17",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-02",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-09-14",
+   "fechada": "2026-09-14",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Copa Rio (Super Vôlei) · Øliver's · Operação + campanha (24, 25 e 26/09)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/15",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-24",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-10-02",
+   "fechada": "2026-10-01",
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Roleta Falaê · Definir prêmios/benefícios com a Lini → Fred implementar",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/12",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Attention",
+   "prioridade": "P2-Media",
+   "prazo": "2026-10-10",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-10-02",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Multi-marca · Mapeamento de datas de campanha Setembro",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/11",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-09-16",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-10-01",
+   "fechada": "2026-10-01",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Otimizar YouTube (shorts) · manter alcance orgânico",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/3",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P2-Media",
+   "prazo": "2026-10-07",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-11-07",
+   "fechada": "2026-11-07",
+   "responsaveis": [
+    "Manu",
+    "Gabi",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Coca-Cola · Resultados de vendas por canal (Cocas + Combos Copa)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/1",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-02",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-09-15",
+   "fechada": "2026-09-14",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Plano de inauguracao das 3 unidades (Araruama, Saquarema, Sao Pedro)",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/42",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P2-Media",
+   "prazo": "2026-09-18",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-10-02",
+   "fechada": "2026-10-02",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · São Gonçalo · Aumentar ticket médio · produto âncora, escolas, Olive's, benchmark",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/34",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "In progress",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-09-15",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · COTAÇÃO DO KIT HASHI",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/27",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P2-Media",
+   "prazo": "2026-09-18",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-09-18",
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Araruama · Plano de Lançamento (pré-inauguração + inauguração + 3 meses)",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/18",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "In progress",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-10-10",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-10-15",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Araruama · Tagline dos Instagrams RJ e SP (Araruama, SG, Lapa)",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/17",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-21",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-10-19",
+   "fechada": "2026-10-19",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Araruama · Landing de captação + CRM + cupons (hot roll isca + 1ª compra)",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/16",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "In review",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-10-07",
+   "inicio": "2026-09-08",
+   "criada": "2026-08-18",
+   "atualizada": "2026-11-08",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Araruama · Brindes + impressos (imã QR, imã 3D, flyer de carro, kit sushi)",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/13",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "In progress",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-09-09",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-11-09",
+   "fechada": null,
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Araruama · Giveaway de inauguração (3 combos) - Sorteio 08/10",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/11",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P2-Media",
+   "prazo": "2026-10-08",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-11-07",
+   "fechada": "2026-11-07",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "ROB · Material e copy de captacao de patrocinio (cotas Master/Oficial/Apoiadores)",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/17",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Attention",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-15",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-10-02",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "ROB · Planejamento e agendamento de conteúdo do perfil do Grupo ROB",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/15",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-02",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-10-01",
+   "fechada": "2026-10-01",
+   "responsaveis": [
+    "Manu",
+    "Luiza"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "ROB · Comercial · Apresentações de venda · padronizar Ogro + criar Temaqueria",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/4",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Ready",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-16",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-11-09",
+   "fechada": null,
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Araruama · Reveillon · ingresso pre-pago na ACOM",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/160",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Backlog",
+   "prioridade": "P2-Media",
+   "prazo": "2026-11-01",
+   "inicio": "2026-08-18",
+   "criada": "2026-08-18",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "ROB · Documento para Parceiros B2B",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/23",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Attention",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-30",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-09-12",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "ROB · Campanha Evento Summit Expansão",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/24",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "In progress",
+   "prioridade": "P2-Media",
+   "prazo": "2026-11-12",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-09-12",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Lapa · Plano de Lançamento (pré-inauguração + inauguração + 3 meses)",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/46",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "In progress",
+   "prioridade": "P2-Media",
+   "prazo": "2026-10-20",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-10-01",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Campanha Inauguração Araruama",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/47",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "In progress",
+   "prioridade": "P2-Media",
+   "prazo": "2026-10-09",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-10-09",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Objetivo da Campanha + Conferência da anterior/mesmo período + Fechamento de Narrativa + Dores e",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/50",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Backlog",
+   "prioridade": "P1-Alta",
+   "prazo": null,
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Campanhas Setembro · Temakeria",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/51",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-30",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-09-30",
+   "fechada": "2026-09-30",
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "LANGS · Campanhas Setembro · Langs",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/8",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Done",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-09-18",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-10-01",
+   "fechada": "2026-10-01",
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Campanhas Setembro · ØLV",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/59",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-30",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-09-30",
+   "fechada": "2026-09-30",
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Ideias Temakeria (ganchos, conteúdos a replicar, ideias com Vecchi)",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/52",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "In review",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-01",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-10-05",
+   "fechada": null,
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Rebranding Temakeria? Qual data começa",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/55",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "In progress",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-30",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-10-09",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Gravação Temakeria",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/58",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-03",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-10-08",
+   "fechada": "2026-10-08",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "LANGS · Panfleto Langs (campanha cruzada ØLV)",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/11",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-08-11",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-09-19",
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Manychat = Temakeria",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/60",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Attention",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-05",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-10-05",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "LANGS · Resultado de vendas dos canais",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/13",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-08-26",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-09-15",
+   "fechada": "2026-09-15",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Ativar Influencers — Campanha Coyote vs. Acme",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/68",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-05",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-10-06",
+   "fechada": "2026-10-06",
+   "responsaveis": [
+    "Manu",
+    "Luiza"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "ROB · Campanha Expansão ROB/OLV e marcas",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/26",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "In progress",
+   "prioridade": "P2-Media",
+   "prazo": "2026-10-10",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Ativações de Collabs, Mídias, Jornais, Podcasts, Perfis de Notícias",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/81",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "In progress",
+   "prioridade": "P2-Media",
+   "prazo": "2026-10-25",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Campanha Filme · Coyote vs. Acme",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/82",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P2-Media",
+   "prazo": "2026-08-28",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-09-22",
+   "fechada": "2026-09-22",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "RAJAH · Calendário Setembro · Rajah",
+   "url": "https://github.com/dev-seven7/cs-rajah/issues/1",
+   "repo": "cs-rajah",
+   "marca": "Rajah",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-08-24",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-10-08",
+   "fechada": "2026-10-08",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Campanha Reservas Maricá + SG",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/93",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-08-24",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-10-06",
+   "fechada": "2026-10-06",
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Apresentação resultados Lapa",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/95",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "In progress",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-05",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-10-22",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Cultura Inglesa",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/103",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-08-24",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Resultado de vendas dos canais · Final da campanha 27/09",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/104",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P2-Media",
+   "prazo": "2026-09-27",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-10-02",
+   "fechada": "2026-10-02",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Revitalização Destaques Rodízio + À La Carte",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/105",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-17",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-11-07",
+   "fechada": "2026-11-07",
+   "responsaveis": [
+    "Luiza"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Matheus · Cartão de confirmação de reservas",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/106",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Attention",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-08-24",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-11-09",
+   "fechada": null,
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Mês dos Pais · ØLV",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/114",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P2-Media",
+   "prazo": "2026-08-31",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · COPA RIO",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/126",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-09-24",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-10-01",
+   "fechada": "2026-10-01",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "LANGS · Gravação LANGS",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/24",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-03",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-10-19",
+   "fechada": "2026-10-19",
+   "responsaveis": [
+    "Luiza"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "RAJAH · Ideias pra distribuir no calendário",
+   "url": "https://github.com/dev-seven7/cs-rajah/issues/2",
+   "repo": "cs-rajah",
+   "marca": "Rajah",
+   "status": "Done",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-07-13",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-09-11",
+   "fechada": "2026-09-11",
+   "responsaveis": [
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Pulseira Rodízio + Roleta de Mesa",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/144",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Ready",
+   "prioridade": "P2-Media",
+   "prazo": "2026-10-09",
+   "inicio": "2026-08-19",
+   "criada": "2026-08-19",
+   "atualizada": "2026-11-09",
+   "fechada": null,
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Postar toda quinta-feira — Promo 99",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/165",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-10",
+   "inicio": "2026-08-21",
+   "criada": "2026-08-21",
+   "atualizada": "2026-10-08",
+   "fechada": "2026-10-08",
+   "responsaveis": [
+    "Luiza"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "LANGS · Campanha Reservas · Langs (aniversário → WhatsApp)",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/26",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "In progress",
+   "prioridade": null,
+   "prazo": "2026-10-05",
+   "inicio": "2026-08-21",
+   "criada": "2026-08-21",
+   "atualizada": "2026-11-13",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "LANGS · Reservas · Controle de Tráfego (WhatsApp)",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/31",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Attention",
+   "prioridade": null,
+   "prazo": "2026-10-10",
+   "inicio": "2026-08-21",
+   "criada": "2026-08-21",
+   "atualizada": "2026-10-09",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Campanha cruzada · Acompanhar resultados + trackear cupons (ØLV × Lang's × Temakeria)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/166",
+   "repo": "cs-olivers",
+   "marca": "Multimarcas",
+   "status": "In progress",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-25",
+   "inicio": "2026-08-21",
+   "criada": "2026-08-21",
+   "atualizada": "2026-10-02",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Coca-Cola · Compilar e enviar fotos das experiências + dados de marketplace + mídias do fechamento",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/167",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-07",
+   "inicio": "2026-09-11",
+   "criada": "2026-08-21",
+   "atualizada": "2026-10-07",
+   "fechada": "2026-10-07",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Cupom secreto no iFood (tática de tracking)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/180",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-08-26",
+   "inicio": "2026-08-21",
+   "criada": "2026-08-21",
+   "atualizada": "2026-09-14",
+   "fechada": "2026-09-14",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "ROB · Criativos dos anúncios de tráfego (João/estáticos + Luiza/vídeos)",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/67",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "In review",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-28",
+   "inicio": "2026-08-21",
+   "criada": "2026-08-21",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "ROB · Summit · Landing page do evento (Thiago)",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/70",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Ready",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-06",
+   "inicio": "2026-08-21",
+   "criada": "2026-08-21",
+   "atualizada": "2026-10-09",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "Alinhar fotos - Big Hot de banana com doce de leite",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/150",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-09-15",
+   "inicio": "2026-08-24",
+   "criada": "2026-08-24",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-10-08",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "ROB · Painel único de funil (BI × Marketing) · cupons, tráfego, reservas e resultado por ação",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/78",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Attention",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-02",
+   "inicio": "2026-08-25",
+   "criada": "2026-08-25",
+   "atualizada": "2026-10-09",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Comunicado interno · datas comerciais e campanhas até dez/2026",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/184",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "In review",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-31",
+   "inicio": "2026-08-25",
+   "criada": "2026-08-25",
+   "atualizada": "2026-10-07",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Semana do Cliente · Dia do Cliente 15/09",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/193",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-09-14",
+   "inicio": "2026-08-25",
+   "criada": "2026-08-25",
+   "atualizada": "2026-09-22",
+   "fechada": "2026-09-22",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Alcântara · 2 anos da unidade · ação de venda no canal próprio",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/194",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-06",
+   "inicio": "2026-08-25",
+   "criada": "2026-08-25",
+   "atualizada": "2026-10-05",
+   "fechada": "2026-10-05",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Report de fechamento mensal por unidade (Databite) · até o dia 20",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/195",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-18",
+   "inicio": "2026-08-14",
+   "criada": "2026-08-25",
+   "atualizada": "2026-10-01",
+   "fechada": "2026-10-01",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · GATE · Reprecificação + cardápio novo ·",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/187",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-09-25",
+   "inicio": "2026-08-25",
+   "criada": "2026-08-25",
+   "atualizada": "2026-10-01",
+   "fechada": "2026-10-01",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · São Gonçalo · Benefício estudante e professor · margem, validação na loja e traqueamento",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/188",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Ready",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-10",
+   "inicio": "2026-08-25",
+   "criada": "2026-08-25",
+   "atualizada": "2026-10-01",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Semana do Cliente · Dia do Cliente 15/09",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/191",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-14",
+   "inicio": "2026-08-25",
+   "criada": "2026-08-25",
+   "atualizada": "2026-09-22",
+   "fechada": "2026-09-22",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "LANGS · Grade Fixa Semanal · dias temáticos no salão",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/38",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Attention",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-07",
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-09-15",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "LANGS · Cardápio & Produto · Novidades -  setembro a dezembro",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/40",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "In progress",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-12-31",
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-11-13",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "LANGS · Carrossel - Grade Semanal · Criativo da grade de dias fixos",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/49",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Attention",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-30",
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-11-09",
+   "fechada": null,
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "LANGS · Cardápio · Arte do papel de bandeja (salão) · Briefing + Design",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/57",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-09",
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-10-14",
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "LANGS · Estudantes B2B - ESCOLAS · Agosto + Setembro - Benefício Langs",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/61",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Attention",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-17",
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-11-13",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "LANGS · Estudante · Mapear e contatar as instituições vizinhas",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/60",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "In progress",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-17",
+   "inicio": "2026-08-28",
+   "criada": "2026-08-26",
+   "atualizada": "2026-11-13",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "LANGS · Dia do Cliente · 15/09",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/64",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-15",
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-09-22",
+   "fechada": "2026-09-22",
+   "responsaveis": [
+    "Manu",
+    "Gabi",
+    "Luiza"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "LANGS · Black Friday e hambúrguer de novembro",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/65",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Backlog",
+   "prioridade": "P2-Media",
+   "prazo": "2026-10-15",
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "LANGS · Ações de verão (pós-praia)",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/66",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Backlog",
+   "prioridade": "P2-Media",
+   "prazo": "2026-11-15",
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "LANGS · Conteúdo com a nova colaboradora (novidades em vídeo)",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/69",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Done",
+   "prioridade": "P2-Media",
+   "prazo": "2026-09-12",
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-10-08",
+   "fechada": "2026-10-08",
+   "responsaveis": [
+    "Luiza"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Lapa · Panfleto de pedidos · Briefing + Design",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/200",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": "2026-09-30",
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Lapa · Flyer dobrável de carro · Briefing + Design",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/205",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-08-31",
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Lapa · Ímã de geladeira · Briefing + Design",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/210",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-08-31",
+   "inicio": "2026-08-26",
+   "criada": "2026-08-26",
+   "atualizada": "2026-09-10",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "[CONTEÚDO] - Artes para instagram da Rajah",
+   "url": "https://github.com/dev-seven7/cs-rajah/issues/4",
+   "repo": "cs-rajah",
+   "marca": "Rajah",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-09-30",
+   "inicio": "2026-08-31",
+   "criada": "2026-08-31",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-10-08",
+   "responsaveis": [
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Rodízio + Reservas · Briefing + Design (vídeo + arte)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/204",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-09-05",
+   "inicio": "2026-08-31",
+   "criada": "2026-08-31",
+   "atualizada": "2026-10-06",
+   "fechada": "2026-10-06",
+   "responsaveis": [
+    "Manu",
+    "Luiza"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "Ogro Steaks · Onboarding (full service)",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/1",
+   "repo": "cs-ogro-steaks",
+   "marca": "Ogro",
+   "status": "In progress",
+   "prioridade": null,
+   "prazo": "2026-09-30",
+   "inicio": "2026-09-08",
+   "criada": "2026-08-31",
+   "atualizada": "2026-11-13",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Calendário Setembro · Temakeria",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/228",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-09-05",
+   "inicio": "2026-08-31",
+   "criada": "2026-08-31",
+   "atualizada": "2026-10-05",
+   "fechada": "2026-10-05",
+   "responsaveis": [
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Rotina Social semanal · Luiza + Otávio",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/229",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-09-21",
+   "inicio": "2026-09-07",
+   "criada": "2026-08-31",
+   "atualizada": "2026-10-05",
+   "fechada": "2026-10-05",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "LANGS · Calendário Setembro · Langs",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/73",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-09-05",
+   "inicio": "2026-08-31",
+   "criada": "2026-08-31",
+   "atualizada": "2026-10-05",
+   "fechada": "2026-10-05",
+   "responsaveis": [
+    "Luiza"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Copa Rio · Brindes e criativos (7 peças)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/209",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-17",
+   "inicio": "2026-09-02",
+   "criada": "2026-09-02",
+   "atualizada": "2026-09-22",
+   "fechada": "2026-09-22",
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Copa Rio · Viseira · Construir a Base (briefing)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/210",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-08",
+   "inicio": "2026-09-02",
+   "criada": "2026-09-02",
+   "atualizada": "2026-10-06",
+   "fechada": "2026-10-06",
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Copa Rio · Adesivo pro stand · Briefing + Design",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/222",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-09-03",
+   "inicio": "2026-09-03",
+   "criada": "2026-09-03",
+   "atualizada": "2026-09-17",
+   "fechada": "2026-09-17",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "LANGS · Rotina Social semanal · Luiza + Otávio",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/75",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-09-09",
+   "criada": "2026-09-09",
+   "atualizada": "2026-10-05",
+   "fechada": "2026-10-05",
+   "responsaveis": [
+    "Manu",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "Ogro Steaks · Consolidação das 3 calls de 09/09 (estratégia, perfil e setup)",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/4",
+   "repo": "cs-ogro-steaks",
+   "marca": "Ogro",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": null,
+   "inicio": "2026-09-10",
+   "criada": "2026-09-10",
+   "atualizada": "2026-10-08",
+   "fechada": "2026-10-08",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Semana do Cliente · Posts + briefing",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/228",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-09-10",
+   "criada": "2026-09-10",
+   "atualizada": "2026-09-19",
+   "fechada": "2026-09-19",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "ROB · Rotina Social semanal · Luiza + Otávio",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/95",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": null,
+   "inicio": "2026-09-10",
+   "criada": "2026-09-10",
+   "atualizada": "2026-10-05",
+   "fechada": "2026-10-05",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OGRO · Comunidade no Instagram · canal com conteúdo regular e exclusivo + embaixadores",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/6",
+   "repo": "cs-ogro-steaks",
+   "marca": "Ogro",
+   "status": "Ready",
+   "prioridade": "P2-Media",
+   "prazo": null,
+   "inicio": "2026-09-11",
+   "criada": "2026-09-11",
+   "atualizada": "2026-09-11",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi",
+    "Victor"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OGRO · Atendimento · manual pros franqueados + sistema de feedback (Campos com 9% de reclamação)",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/7",
+   "repo": "cs-ogro-steaks",
+   "marca": "Ogro",
+   "status": "Ready",
+   "prioridade": "P1-Alta",
+   "prazo": null,
+   "inicio": "2026-09-11",
+   "criada": "2026-09-11",
+   "atualizada": "2026-09-11",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Araruama · Brindes · Ímã de geladeira com QR code",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/152",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-09-11",
+   "criada": "2026-08-24",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-09-18",
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "ROB · Auditoria completa da conta (S7)",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/106",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "In progress",
+   "prioridade": "P1-Alta",
+   "prazo": null,
+   "inicio": "2026-09-11",
+   "criada": "2026-09-11",
+   "atualizada": "2026-10-09",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "LANGS · Auditoria completa da conta (S7)",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/77",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-09-11",
+   "criada": "2026-09-11",
+   "atualizada": "2026-10-09",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "Ogro Steaks · Auditoria completa da conta (S7)",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/9",
+   "repo": "cs-ogro-steaks",
+   "marca": "Ogro",
+   "status": "In progress",
+   "prioridade": null,
+   "prazo": "2026-10-06",
+   "inicio": "2026-09-11",
+   "criada": "2026-09-11",
+   "atualizada": "2026-11-12",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Auditoria completa da conta (S7)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/230",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-09-11",
+   "criada": "2026-09-11",
+   "atualizada": "2026-10-09",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Auditoria completa da conta (S7)",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/236",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-09-11",
+   "criada": "2026-09-11",
+   "atualizada": "2026-10-09",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OGRO · Rotina Social semanal · Luiza + Otávio",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/10",
+   "repo": "cs-ogro-steaks",
+   "marca": "Ogro",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-21",
+   "inicio": "2026-09-11",
+   "criada": "2026-09-11",
+   "atualizada": "2026-10-05",
+   "fechada": "2026-10-05",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "LANGS · Card Games Pokémon · Produção de conteúdo · Evento (15/09)",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/78",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-09-11",
+   "criada": "2026-09-11",
+   "atualizada": "2026-10-08",
+   "fechada": "2026-10-08",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Semana do Cliente · Criação de banner",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/235",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-09-14",
+   "criada": "2026-09-14",
+   "atualizada": "2026-11-09",
+   "fechada": null,
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "TMK · Cardápio TMK",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/239",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "In review",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-10-02",
+   "inicio": "2026-09-28",
+   "criada": "2026-09-14",
+   "atualizada": "2026-11-09",
+   "fechada": null,
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "🎨 🍣 TMK · Araruama · Brindes · Panfleto de pedidos (cardapio delivery)",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/153",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-09-14",
+   "criada": "2026-08-24",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-09-18",
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "🎨 🍣 TMK · Araruama · Brindes · Panfleto de pedidos · Construir o Design",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/180",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Sem marca",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-08-25",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-09-03",
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "🎨 🍣 TMK · Araruama · Brindes · Panfleto de pedidos · Aprovacao + Ajustes",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/181",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Sem marca",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-08-25",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-09-03",
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "🎨 🍣 TMK · Araruama · Brindes · Panfleto de pedidos · Entregar ao Solicitante (arquivo pra grafica)",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/182",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Sem marca",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-08-25",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-09-03",
+   "responsaveis": [],
+   "sub": true
+  },
+  {
+   "titulo": "EPIC7 · O que só o ROB destrava (Set26) · lista única pra Mathias, Julia e Gustavo",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/114",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "In review",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-09-21",
+   "inicio": "2026-09-15",
+   "criada": "2026-09-15",
+   "atualizada": "2026-10-09",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OGRO · Calendário de Conteúdo · Setembro",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/12",
+   "repo": "cs-ogro-steaks",
+   "marca": "Multimarcas",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-09-23",
+   "inicio": "2026-09-16",
+   "criada": "2026-09-16",
+   "atualizada": "2026-10-05",
+   "fechada": "2026-10-05",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OGRO · Destaques + Bio do Instagram · atualização",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/13",
+   "repo": "cs-ogro-steaks",
+   "marca": "Multimarcas",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-09-22",
+   "inicio": "2026-09-16",
+   "criada": "2026-09-16",
+   "atualizada": "2026-10-08",
+   "fechada": "2026-10-08",
+   "responsaveis": [
+    "Luiza"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "🔹 🍕 OLV · Maricá · Ativação Cross21 · Postagem do Evento",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/5",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": "2026-09-23",
+   "inicio": "2026-09-17",
+   "criada": "2026-08-18",
+   "atualizada": "2026-10-08",
+   "fechada": "2026-10-08",
+   "responsaveis": [
+    "Luiza"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "🧭 🥩 OGRO · São Gonçalo · Lançamento da unidade (pré-inauguração + inauguração + pós)",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/14",
+   "repo": "cs-ogro-steaks",
+   "marca": "Multimarcas",
+   "status": "Backlog",
+   "prioridade": "P1-Alta",
+   "prazo": null,
+   "inicio": "2026-09-17",
+   "criada": "2026-09-17",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi",
+    "Victor"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "🎨 🏢 ROB · Multi-marca · Artes de material impresso e uniforme para franqueados",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/115",
+   "repo": "cs-rob-food",
+   "marca": "Multimarcas",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-09-21",
+   "inicio": "2026-09-17",
+   "criada": "2026-09-17",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-10-08",
+   "responsaveis": [],
+   "sub": false
+  },
+  {
+   "titulo": "🧭 🥩 OGRO · Projetos da Bárbara (CMO Ogro) · Protocolo de Lançamento + Curso de Treinamento + Kit de Boas-Vindas",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/15",
+   "repo": "cs-ogro-steaks",
+   "marca": "Ogro",
+   "status": "Backlog",
+   "prioridade": "P2-Media",
+   "prazo": "2026-11-01",
+   "inicio": "2026-09-21",
+   "criada": "2026-09-21",
+   "atualizada": "2026-11-11",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi",
+    "Victor"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "🧭 🥩 OGRO · Protocolo de Lançamento · playbook de 5 fases (D-10 → D+14)",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/16",
+   "repo": "cs-ogro-steaks",
+   "marca": "Ogro",
+   "status": "Backlog",
+   "prioridade": "P2-Media",
+   "prazo": "2026-11-01",
+   "inicio": "2026-09-21",
+   "criada": "2026-09-21",
+   "atualizada": "2026-11-11",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi",
+    "Victor"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "🎨 🥩 OGRO · Mídia Kit / Kit de Boas-Vindas para novos franqueados",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/18",
+   "repo": "cs-ogro-steaks",
+   "marca": "Ogro",
+   "status": "Backlog",
+   "prioridade": "P2-Media",
+   "prazo": "2026-11-01",
+   "inicio": "2026-09-21",
+   "criada": "2026-09-21",
+   "atualizada": "2026-09-21",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Parceiros · Controle mensal · Agosto/2026",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/152",
+   "repo": "cs-olivers",
+   "marca": "Sem marca",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-08-20",
+   "atualizada": "2026-09-10",
+   "fechada": "2026-09-10",
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "🧭 🍕 OLV · Doc compilado · Manual de PARCEIROS",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/115",
+   "repo": "cs-olivers",
+   "marca": "Sem marca",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-08-19",
+   "atualizada": "2026-08-28",
+   "fechada": "2026-08-28",
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Salão · Padrão de experiência · broche, carta de vinhos, cardápio, QR de mesa, uniforme por cargo",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/239",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Ready",
+   "prioridade": "P2-Media",
+   "prazo": "2026-10-16",
+   "inicio": "2026-09-30",
+   "criada": "2026-09-30",
+   "atualizada": "2026-09-30",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Planejamento Novembro e Dezembro · ENEM, Black Friday, verão, fuga da ceia e barcos",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/242",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Ready",
+   "prioridade": "P2-Media",
+   "prazo": "2026-10-15",
+   "inicio": "2026-09-30",
+   "criada": "2026-09-30",
+   "atualizada": "2026-11-12",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Aniversário 9 anos · 01 a 09/11 · ticket premiado + envelopes no salão + imprensa",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/241",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "In review",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-28",
+   "inicio": "2026-09-30",
+   "criada": "2026-09-30",
+   "atualizada": "2026-11-09",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Calendário Dezembro · Natal com Coca-Cola, pizza sazonal e aniversários de Niterói e Copa",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/243",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Ready",
+   "prioridade": "P2-Media",
+   "prazo": "2026-11-20",
+   "inicio": "2026-09-30",
+   "criada": "2026-09-30",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Gabi",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "📈 TMK · Virada de verba 09/10 (Araruama: #01 sobe + #02/#03 ligam)",
+   "url": "https://github.com/dev-seven7/cs-tmk-performance/issues/1",
+   "repo": "cs-tmk-performance",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-09",
+   "inicio": "2026-09-30",
+   "criada": "2026-09-30",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-10-09",
+   "responsaveis": [],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Rotina Social semanal · Luiza + Otávio · 05 a 11/10",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/246",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-09",
+   "inicio": "2026-10-05",
+   "criada": "2026-10-05",
+   "atualizada": "2026-10-15",
+   "fechada": "2026-10-15",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "LANGS · Rotina Social semanal · Luiza + Otávio · 05 a 11/10",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/83",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-09",
+   "inicio": "2026-10-05",
+   "criada": "2026-10-05",
+   "atualizada": "2026-10-15",
+   "fechada": "2026-10-15",
+   "responsaveis": [
+    "Manu",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Rotina Social semanal · Luiza + Otávio · 05 a 11/10",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/244",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-09",
+   "inicio": "2026-10-05",
+   "criada": "2026-10-05",
+   "atualizada": "2026-10-15",
+   "fechada": "2026-10-15",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OGRO · Rotina Social semanal · Luiza + Otávio · 05 a 11/10",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/22",
+   "repo": "cs-ogro-steaks",
+   "marca": "Multimarcas",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-09",
+   "inicio": "2026-10-05",
+   "criada": "2026-10-05",
+   "atualizada": "2026-10-15",
+   "fechada": "2026-10-15",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "ROB · Rotina Social semanal · Luiza + Otávio · 05 a 11/10",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/121",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-09",
+   "inicio": "2026-10-05",
+   "criada": "2026-10-05",
+   "atualizada": "2026-10-15",
+   "fechada": "2026-10-15",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "📊 OLV · Report 90 dias · investimento por canal e unidade (jul-set/26, pedido do Mathias)",
+   "url": "https://github.com/dev-seven7/cs-olivers-performance/issues/11",
+   "repo": "cs-olivers-performance",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-08",
+   "criada": "2026-10-08",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-10-08",
+   "responsaveis": [],
+   "sub": false
+  },
+  {
+   "titulo": "✅ TMK · Araruama · estrutura Out26 e anúncios de topo/meio no ar",
+   "url": "https://github.com/dev-seven7/cs-tmk-performance/issues/2",
+   "repo": "cs-tmk-performance",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-09",
+   "inicio": "2026-10-09",
+   "criada": "2026-10-09",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-10-09",
+   "responsaveis": [],
+   "sub": false
+  },
+  {
+   "titulo": "✅ TMK · Araruama · correspondência avançada do Lead (Tally → hash → pixel)",
+   "url": "https://github.com/dev-seven7/cs-tmk-performance/issues/3",
+   "repo": "cs-tmk-performance",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-10-01",
+   "inicio": "2026-10-09",
+   "criada": "2026-10-09",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-10-09",
+   "responsaveis": [],
+   "sub": false
+  },
+  {
+   "titulo": "✅ TMK · Araruama · fundo de funil na inauguração (cardápio + Big Hot no lead)",
+   "url": "https://github.com/dev-seven7/cs-tmk-performance/issues/4",
+   "repo": "cs-tmk-performance",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-10-09",
+   "inicio": "2026-10-09",
+   "criada": "2026-10-09",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-10-09",
+   "responsaveis": [],
+   "sub": false
+  },
+  {
+   "titulo": "📣 OLV · Meta · delivery por conjunto, regras por ID, #09 corrigida e Budget Out26 (08-09/10)",
+   "url": "https://github.com/dev-seven7/cs-olivers-performance/issues/13",
+   "repo": "cs-olivers-performance",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-09",
+   "inicio": "2026-10-08",
+   "criada": "2026-10-09",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-10-09",
+   "responsaveis": [],
+   "sub": false
+  },
+  {
+   "titulo": "🔎 OLV · Google · conta reconstruída: Marca + Conversao Reserva por unidade (TagMe) + Delivery em 2º plano (09/10)",
+   "url": "https://github.com/dev-seven7/cs-olivers-performance/issues/14",
+   "repo": "cs-olivers-performance",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-09",
+   "inicio": "2026-10-08",
+   "criada": "2026-10-09",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-10-09",
+   "responsaveis": [],
+   "sub": false
+  },
+  {
+   "titulo": "📲 OLV + LANGS + TMK · Gravação de conteúdo · quinta 15/10",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/249",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-15",
+   "inicio": "2026-10-13",
+   "criada": "2026-10-13",
+   "atualizada": "2026-10-29",
+   "fechada": "2026-10-29",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "✅ TMK · Araruama · pixel no CardápioWeb + fundo vira Vendas (Purchase) + dayparting 17h",
+   "url": "https://github.com/dev-seven7/cs-tmk-performance/issues/10",
+   "repo": "cs-tmk-performance",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-10-13",
+   "inicio": "2026-10-13",
+   "criada": "2026-10-14",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-10-14",
+   "responsaveis": [],
+   "sub": false
+  },
+  {
+   "titulo": "🍕 OLV · Copacabana · Presente Copa no ar: Lead + cardápio Cold e Warm, 35 públicos, tracking e budget Out26 (14/10)",
+   "url": "https://github.com/dev-seven7/cs-olivers-performance/issues/16",
+   "repo": "cs-olivers-performance",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-14",
+   "inicio": "2026-10-14",
+   "criada": "2026-10-14",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-10-14",
+   "responsaveis": [],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Rotina Social semanal · Luiza + Otávio · 15 a 23/10",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/250",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-15",
+   "criada": "2026-10-15",
+   "atualizada": "2026-10-26",
+   "fechada": "2026-10-26",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Rotina Social semanal · Luiza + Otávio · 15 a 23/10",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/246",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-15",
+   "criada": "2026-10-15",
+   "atualizada": "2026-10-26",
+   "fechada": "2026-10-26",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OGRO · Rotina Social semanal · Luiza + Otávio · 15 a 23/10",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/26",
+   "repo": "cs-ogro-steaks",
+   "marca": "Multimarcas",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-15",
+   "criada": "2026-10-15",
+   "atualizada": "2026-10-26",
+   "fechada": "2026-10-26",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "LANGS · Rotina Social semanal · Luiza + Otávio · 15 a 23/10",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/85",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-15",
+   "criada": "2026-10-15",
+   "atualizada": "2026-10-26",
+   "fechada": "2026-10-26",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "ROB · Rotina Social semanal · Luiza + Otávio · 15 a 23/10",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/124",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-15",
+   "criada": "2026-10-15",
+   "atualizada": "2026-10-26",
+   "fechada": "2026-10-26",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Piratininga · Giveaway de inauguração",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/251",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-15",
+   "criada": "2026-10-15",
+   "atualizada": "2026-10-15",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Piratininga · Landing de captação + produto isca",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/252",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-15",
+   "criada": "2026-10-15",
+   "atualizada": "2026-10-15",
+   "fechada": null,
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Piratininga · Criativos de inauguração + budget de tráfego",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/253",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-15",
+   "criada": "2026-10-15",
+   "atualizada": "2026-10-15",
+   "fechada": null,
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OLV · Piratininga · Impressos e brindes de inauguração",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/254",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-15",
+   "criada": "2026-10-15",
+   "atualizada": "2026-10-15",
+   "fechada": null,
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OGRO · São Gonçalo · Giveaway de inauguração",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/27",
+   "repo": "cs-ogro-steaks",
+   "marca": "Multimarcas",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-15",
+   "criada": "2026-10-15",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OGRO · São Gonçalo · Landing de captação + produto isca",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/28",
+   "repo": "cs-ogro-steaks",
+   "marca": "Multimarcas",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-15",
+   "criada": "2026-10-15",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OGRO · São Gonçalo · Criativos de inauguração + budget de tráfego",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/29",
+   "repo": "cs-ogro-steaks",
+   "marca": "Multimarcas",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-15",
+   "criada": "2026-10-15",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "OGRO · São Gonçalo · Impressos e brindes de inauguração",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/30",
+   "repo": "cs-ogro-steaks",
+   "marca": "Multimarcas",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-10-15",
+   "criada": "2026-10-15",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": true
+  },
+  {
+   "titulo": "🤝 OLV + TMK + OGRO · avaliar Bruna Lucas (@_brunal) como parceira (retomada out26)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/255",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Backlog",
+   "prioridade": "P2-Media",
+   "prazo": "2026-11-30",
+   "inicio": "2026-10-20",
+   "criada": "2026-10-20",
+   "atualizada": "2026-10-20",
+   "fechada": null,
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "🎨 OGRO · Destaques UNIDADES + HORÁRIOS · 12 unidades (out26)",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/31",
+   "repo": "cs-ogro-steaks",
+   "marca": "Multimarcas",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-23",
+   "inicio": "2026-10-20",
+   "criada": "2026-10-20",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-11-07",
+   "responsaveis": [
+    "Luiza"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Rotina Social semanal · Luiza + Otávio · 26 a 30/10",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/256",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-30",
+   "inicio": "2026-10-26",
+   "criada": "2026-10-26",
+   "atualizada": "2026-11-07",
+   "fechada": "2026-11-07",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "LANGS · Rotina Social semanal · Luiza + Otávio · 26 a 30/10",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/86",
+   "repo": "cs-langs",
+   "marca": "Lang's",
+   "status": "Backlog",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-30",
+   "inicio": "2026-10-26",
+   "criada": "2026-10-26",
+   "atualizada": "2026-11-07",
+   "fechada": "2026-11-07",
+   "responsaveis": [
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "TMK · Rotina Social semanal · Luiza + Otávio · 26 a 30/10",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/247",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-30",
+   "inicio": "2026-10-26",
+   "criada": "2026-10-26",
+   "atualizada": "2026-11-07",
+   "fechada": "2026-11-07",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OGRO · Rotina Social semanal · Luiza + Otávio · 26 a 30/10",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/32",
+   "repo": "cs-ogro-steaks",
+   "marca": "Multimarcas",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-30",
+   "inicio": "2026-10-26",
+   "criada": "2026-10-26",
+   "atualizada": "2026-11-07",
+   "fechada": "2026-11-07",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "ROB · Rotina Social semanal · Luiza + Otávio · 26 a 30/10",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/125",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-30",
+   "inicio": "2026-10-26",
+   "criada": "2026-10-26",
+   "atualizada": "2026-11-07",
+   "fechada": "2026-11-07",
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "🔴 OLV · Meta · spend_cap da rede com R$ ··· livres: a conta para entre qui 29 e sex 30/10",
+   "url": "https://github.com/dev-seven7/cs-olivers-performance/issues/19",
+   "repo": "cs-olivers-performance",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-10-28",
+   "inicio": "2026-10-27",
+   "criada": "2026-10-27",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-10-27",
+   "responsaveis": [],
+   "sub": false
+  },
+  {
+   "titulo": "🔁 OLV · Meta · #09 remarketing: excluir quem comprou em 30 dias e ampliar visitou o delivery para 180 dias",
+   "url": "https://github.com/dev-seven7/cs-olivers-performance/issues/22",
+   "repo": "cs-olivers-performance",
+   "marca": "Øliver's",
+   "status": "Done",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-10-29",
+   "inicio": "2026-10-27",
+   "criada": "2026-10-27",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-10-27",
+   "responsaveis": [],
+   "sub": false
+  },
+  {
+   "titulo": "📲 TMK · Araruama · Almoço: 3 novos criativos + pedido de almoço pras permutas (out-nov26)",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/248",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Temakeria",
+   "status": "Backlog",
+   "prioridade": "P1-Alta",
+   "prazo": "2026-11-06",
+   "inicio": "2026-10-29",
+   "criada": "2026-10-29",
+   "atualizada": "2026-10-30",
+   "fechada": null,
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "🔧 TMK · Araruama · compra do cardápio contada 2× (CardápioWeb dispara o pixel sozinho)",
+   "url": "https://github.com/dev-seven7/cs-tmk-performance/issues/12",
+   "repo": "cs-tmk-performance",
+   "marca": "Temakeria",
+   "status": "Done",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-10-30",
+   "inicio": "2026-10-29",
+   "criada": "2026-10-29",
+   "atualizada": "2026-11-09",
+   "fechada": "2026-10-30",
+   "responsaveis": [],
+   "sub": false
+  },
+  {
+   "titulo": "OLV · Sorteio · PS5, bike elétrica ou Dyson · autorização + página",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/257",
+   "repo": "cs-olivers",
+   "marca": "Øliver's",
+   "status": "Backlog",
+   "prioridade": "P0-Urgente",
+   "prazo": "2026-11-03",
+   "inicio": "2026-10-31",
+   "criada": "2026-10-31",
+   "atualizada": "2026-10-31",
+   "fechada": null,
+   "responsaveis": [
+    "Gabi"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "OGRO · Calendário de Conteúdo · Novembro",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/33",
+   "repo": "cs-ogro-steaks",
+   "marca": "Multimarcas",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-11-04",
+   "criada": "2026-11-04",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "ROB · Calendário de Conteúdo Novembro (Instagram)",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/126",
+   "repo": "cs-rob-food",
+   "marca": "Grupo ROB",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": "2026-11-04",
+   "criada": "2026-11-04",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false
+  },
+  {
+   "titulo": "Setup estacao Akira: teste de ponta 4/4 (issue de teste)",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/42",
+   "repo": "cs-ogro-steaks",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-12",
+   "atualizada": "2026-11-12",
+   "fechada": null,
+   "responsaveis": [],
+   "sub": false
+  }
+ ],
+ "removidas_por_privacidade": 49
+}
