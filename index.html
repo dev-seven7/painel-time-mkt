@@ -58,6 +58,20 @@ td.h{font-weight:700}
 .legend i{width:9px;height:9px;border-radius:50%;display:inline-block}
 .list{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:4px 16px}
 .empty{color:var(--muted);font-size:13px;padding:10px 0}
+.aud-tools{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 12px}
+.aud-tools button b{font-variant-numeric:tabular-nums}
+.aud{background:var(--surface);border:1px solid var(--line);border-radius:12px}
+.aud-row{display:grid;grid-template-columns:minmax(0,2.4fr) minmax(0,1fr) minmax(0,1.1fr) minmax(0,1.3fr);gap:12px;padding:11px 16px;border-top:1px solid var(--line);font-size:13.5px;align-items:start}
+.aud-row:first-child{border-top:0}
+.aud-head{font-size:12px;color:var(--muted);font-weight:600}
+.aud-row a{color:var(--txt);text-decoration:none;overflow-wrap:anywhere}
+.aud-row a:hover{color:var(--accent)}
+.tag{display:inline-block;font-size:11px;border-radius:6px;padding:1px 6px;background:var(--chip);margin-left:4px}
+.sug{font-weight:600;font-size:12.5px}
+.sug.fechar{color:var(--ok)}.sug.parada{color:var(--bad)}.sug.prazo{color:var(--warn)}.sug.semprazo{color:var(--muted)}.sug.emdia{color:var(--accent)}
+.pe{grid-column:1/-1;background:var(--surface2);border-radius:8px;padding:8px 10px;font-size:12.5px;color:var(--muted);white-space:pre-line}
+.pe b{color:var(--txt)}
+@media (max-width:760px){.aud-row{grid-template-columns:1fr 1fr}.aud-head{display:none}.aud-row>div:first-child{grid-column:1/-1}}
 footer{margin-top:40px;color:var(--muted);font-size:12px}
 </style>
 </head>
@@ -75,6 +89,11 @@ footer{margin-top:40px;color:var(--muted);font-size:12px}
 </header>
 
 <section class="kpis" id="kpis"></section>
+
+<h2>Auditoria: tudo que está aberto</h2>
+<div class="sub" style="margin-bottom:10px" id="audSub">Cada issue aberta com a última vez que alguém comentou, quem foi e o que fazer com ela. A sugestão é automática: confirmar antes de fechar.</div>
+<div class="aud-tools" id="audTools"></div>
+<div class="aud" id="aud"></div>
 
 <h2>Quem está com o quê</h2>
 <div class="legend" id="legend"></div>
@@ -107,7 +126,7 @@ const dias=(a,b)=>Math.round((new Date(b)-new Date(a))/864e5);
 try{const t=localStorage.getItem("painel-tema");if(t)document.documentElement.dataset.theme=t}catch(e){}
 $("#tema").onclick=()=>{const r=document.documentElement,dark=r.dataset.theme?r.dataset.theme==="dark":matchMedia("(prefers-color-scheme: dark)").matches;r.dataset.theme=dark?"light":"dark";try{localStorage.setItem("painel-tema",r.dataset.theme)}catch(e){}};
 
-fetch("data.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{D=d;init()}).catch(()=>{$("#people").innerHTML='<div class="empty">Não consegui carregar os dados.</div>'});
+(window.DADOS?Promise.resolve(window.DADOS):fetch("data.json",{cache:"no-store"}).then(r=>r.json())).then(d=>{D=d;init()}).catch(()=>{$("#people").innerHTML='<div class="empty">Não consegui carregar os dados.</div>'});
 
 function init(){
   const marcas=[...new Set(D.tarefas.map(t=>t.marca))].sort();
@@ -117,6 +136,31 @@ function init(){
   $("#legend").innerHTML=Object.values(ST).map(s=>`<span><i style="background:${s.c}"></i>${s.l}</span>`).join("");
   $("#rodape").textContent=`Fica de fora deste painel: descrição e comentários das tarefas, valores, reuniões, decisões, contratos e assuntos de RH (${D.removidas_por_privacidade} tarefas omitidas). Os links abrem só pra quem tem acesso ao GitHub do time.`;
   render();
+}
+
+const SUG=[["Parece concluída: confirmar e fechar","fechar","Parece concluída"],["Parada há 30+ dias: fechar ou retomar","parada","Parada 30+ dias"],["Prazo vencido: renovar prazo","prazo","Prazo vencido"],["Sem prazo: definir","semprazo","Sem prazo"],["Em dia","emdia","Em dia"]];
+let fSug="", fPessoa="";
+function renderAud(){
+  const PRIV=window.PRIVADO||null;
+  let A=(PRIV||D.tarefas).filter(t=>t.status!=="Done"&&(!marca||t.marca===marca));
+  const base=A;
+  if(fPessoa)A=A.filter(t=>fPessoa==="ninguém"?!t.responsaveis.length:t.responsaveis.includes(fPessoa));
+  const cnt=k=>A.filter(t=>t.sugestao===k).length;
+  const pessoas=["",...D.pessoas,"ninguém"];
+  $("#audTools").innerHTML=`<button data-s="" class="${fSug?"":"on"}">Todas <b>${A.length}</b></button>`+SUG.map(([k,c,l])=>`<button data-s="${k}" class="${fSug===k?"on":""}">${l} <b>${cnt(k)}</b></button>`).join("")+
+    `<select id="fPessoa" aria-label="Filtrar por pessoa">${pessoas.map(p=>`<option value="${p}" ${p===fPessoa?"selected":""}>${p?(p==="ninguém"?"Sem responsável":p):"Todas as pessoas"}</option>`).join("")}</select>`;
+  $("#audTools").querySelectorAll("button").forEach(b=>b.onclick=()=>{fSug=b.dataset.s;renderAud()});
+  $("#fPessoa").onchange=e=>{fPessoa=e.target.value;renderAud()};
+  if(fSug)A=A.filter(t=>t.sugestao===fSug);
+  A.sort((a,b)=>(b.dias_parada-a.dias_parada));
+  const cls=k=>(SUG.find(s=>s[0]===k)||["","",""])[1];
+  const head=`<div class="aud-row aud-head"><div>Issue</div><div>Com quem</div><div>Última conversa</div><div>O que fazer</div></div>`;
+  $("#aud").innerHTML=A.length?head+A.map(t=>{
+    const conv=t.ultimo_comentario?`${fmt(t.ultimo_comentario)} · há ${t.dias_parada}d<span class="meta">por ${esc(t.ultimo_autor)} · ${t.comentarios} coment.</span>`:`sem comentários<span class="meta">aberta há ${t.dias_parada}d</span>`;
+    const tags=(t.fora_do_board?'<span class="tag">fora do board</span>':"")+(t.estado_github==="CLOSED"?'<span class="tag">já fechada no GitHub</span>':"")+(t.sensivel?'<span class="tag">privada</span>':"");
+    const pe=PRIV?`<div class="pe"><b>Em que pé está (último comentário):</b> ${t.resumo?esc(t.resumo):"sem comentários ainda"}</div>`:"";
+    return `<div class="aud-row"><div><a href="${esc(t.url)}" target="_blank" rel="noopener">${esc(t.titulo)}</a>${tags}<span class="meta">${esc(t.marca)} · ${ST[t.status]?ST[t.status].l:t.status}${t.prazo?" · prazo "+fmt(t.prazo):""}</span></div>
+      <div>${esc(t.responsaveis.join(", ")||"ninguém")}</div><div>${conv}</div><div class="sug ${cls(t.sugestao)}">${esc(t.sugestao||"")}</div>${pe}</div>`}).join(""):'<div class="empty" style="padding:12px 16px">Nada nesse filtro.</div>';
 }
 
 const late=t=>t.status!=="Done"&&t.prazo&&t.prazo<D.hoje;
@@ -133,6 +177,7 @@ function item(t,quem){
 }
 
 function render(){
+  renderAud();
   const T=D.tarefas.filter(t=>!marca||t.marca===marca);
   const abertas=T.filter(t=>t.status!=="Done");
   const k=[

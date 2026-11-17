@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-16 20:44",
+ "gerado_em": "2026-11-16 21:07",
  "hoje": "2026-11-16",
  "pessoas": [
   "Manu",
@@ -26,7 +26,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-07",
+   "ultimo_autor": "Luiza",
+   "comentarios": 17,
+   "dias_parada": 9,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Calendário Novembro · Langs",
@@ -44,7 +51,14 @@
     "Manu",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-13",
+   "ultimo_autor": "Luiza",
+   "comentarios": 3,
+   "dias_parada": 3,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Calendário Novembro · Temakeria",
@@ -63,7 +77,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Luiza",
+   "comentarios": 5,
+   "dias_parada": 0,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · Estratégia · SWOT + plano de conteúdo foco produto (food porn, bastidores, séries) + TikTok família",
@@ -82,7 +103,14 @@
     "Gabi",
     "Victor"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-24",
+   "ultimo_autor": "Gabi",
+   "comentarios": 7,
+   "dias_parada": 53,
+   "sugestao": null,
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Filme O Gatola da Cartola · caixa do filme + flyers + comunicação",
@@ -102,7 +130,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-12",
+   "ultimo_autor": "Luiza",
+   "comentarios": 6,
+   "dias_parada": 4,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Parceria Card Games (Pokémon) · Terça na Langs",
@@ -120,7 +155,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-13",
+   "ultimo_autor": "Luiza",
+   "comentarios": 11,
+   "dias_parada": 3,
+   "sugestao": null,
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Cupom exclusivo dos stories · acompanhar uso e migrar cliente do marketplace",
@@ -138,7 +180,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-01",
+   "ultimo_autor": "Gabi",
+   "comentarios": 7,
+   "dias_parada": 46,
+   "sugestao": null,
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Araruama · 10 influenciadores (5 permuta + 5 pagos) + database pro Erick validar",
@@ -157,7 +206,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-08",
+   "ultimo_autor": "Gabi",
+   "comentarios": 35,
+   "dias_parada": 39,
+   "sugestao": null,
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Lapa · Definição de influenciadores + database pra inauguração",
@@ -176,7 +232,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-10",
+   "ultimo_autor": "Manu",
+   "comentarios": 5,
+   "dias_parada": 67,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Estruturar a base de parceiros institucionais (Øliver's + compartilhado SG com Lang's/Temakeria)",
@@ -193,7 +256,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-08-24",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 84,
+   "sugestao": null,
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · Tráfego pago · Criativos pra ativação da conta de anúncios (Meta)",
@@ -212,7 +282,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-06",
+   "ultimo_autor": "Luiza",
+   "comentarios": 5,
+   "dias_parada": 41,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Piratininga / Região Oceânica (Michelle) · lançamento da unidade · obra ~50 dias, inauguração em novembro (sem data)",
@@ -231,7 +308,14 @@
     "Gabi",
     "Luiza"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-06",
+   "ultimo_autor": "Manu",
+   "comentarios": 26,
+   "dias_parada": 10,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · Influenciadores · base de dados (Rio + urbano/rap + dubladores) e outreach",
@@ -250,7 +334,14 @@
     "Gabi",
     "Victor"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 66,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Planejamento do evento de lancamento (Mercoclube, 22/10)",
@@ -268,7 +359,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-11",
+   "ultimo_autor": "externo",
+   "comentarios": 3,
+   "dias_parada": 66,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Calendário Novembro · Aniversário 9 anos, Black Friday, Cyber Monday, Cabo Frio e Niterói",
@@ -288,7 +386,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Manu",
+   "comentarios": 10,
+   "dias_parada": 0,
+   "sugestao": "Prazo vencido: renovar prazo",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Gatola da Cartola · Impressos da campanha",
@@ -305,7 +410,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-14",
+   "ultimo_autor": "Manu",
+   "comentarios": 7,
+   "dias_parada": 33,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Campanha iFood · Fotos dos 15 combos promocionais (Øliver's, Ogro, Temakeria)",
@@ -322,7 +434,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-07",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 40,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "Grupo ROB · Campanha iFood · Black Friday (nov) + Outubro (Øliver's, Ogro, Temakeria)",
@@ -339,7 +458,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-11",
+   "ultimo_autor": "Manu",
+   "comentarios": 6,
+   "dias_parada": 5,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Calendário Outubro · Langs",
@@ -357,7 +483,14 @@
     "Manu",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-07",
+   "ultimo_autor": "Luiza",
+   "comentarios": 19,
+   "dias_parada": 9,
+   "sugestao": "Prazo vencido: renovar prazo",
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Araruama · Editar criativos · Lançamento Temakeria",
@@ -376,7 +509,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-11-07",
+   "ultimo_autor": "Luiza",
+   "comentarios": 34,
+   "dias_parada": 9,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Setembro · Att comunicação Rodízio + Reservas (benefício estendido)",
@@ -394,7 +534,14 @@
     "Manu",
     "Luiza"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-08",
+   "ultimo_autor": "Luiza",
+   "comentarios": 6,
+   "dias_parada": 39,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Calendário Setembro · ØLV",
@@ -411,7 +558,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-05",
+   "ultimo_autor": "Luiza",
+   "comentarios": 4,
+   "dias_parada": 42,
+   "sugestao": null,
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Parceiros · Controle mensal · Setembro/2026",
@@ -428,7 +582,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-01",
+   "ultimo_autor": "Manu",
+   "comentarios": 2,
+   "dias_parada": 46,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Lapa · Giveaway de inauguração · Briefing + Design",
@@ -445,7 +606,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 77,
+   "sugestao": null,
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Parceiros · Controle mensal · Setembro/2026",
@@ -462,7 +630,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-05",
+   "ultimo_autor": "Luiza",
+   "comentarios": 14,
+   "dias_parada": 42,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Parceiros · Controle mensal · Outubro/2026",
@@ -479,7 +654,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-27",
+   "ultimo_autor": "Luiza",
+   "comentarios": 2,
+   "dias_parada": 20,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Calendário Outubro · Øliver's",
@@ -498,7 +680,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-07",
+   "ultimo_autor": "Luiza",
+   "comentarios": 26,
+   "dias_parada": 9,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Calendário Outubro · Temakeria",
@@ -517,7 +706,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-07",
+   "ultimo_autor": "Luiza",
+   "comentarios": 25,
+   "dias_parada": 9,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Calendário de Conteúdo Outubro (Instagram)",
@@ -536,7 +732,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-07",
+   "ultimo_autor": "Luiza",
+   "comentarios": 8,
+   "dias_parada": 9,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "Parceiros · Controle mensal · Outubro/2026",
@@ -553,7 +756,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-12",
+   "ultimo_autor": "Luiza",
+   "comentarios": 20,
+   "dias_parada": 4,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Parceiros · Controle mensal · Outubro/2026",
@@ -570,7 +780,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-27",
+   "ultimo_autor": "Luiza",
+   "comentarios": 5,
+   "dias_parada": 20,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · Parceiros · Controle mensal · Outubro/2026",
@@ -587,7 +804,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-29",
+   "ultimo_autor": "Luiza",
+   "comentarios": 5,
+   "dias_parada": 18,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Parceiros · Controle mensal · Setembro/2026",
@@ -604,7 +828,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-01",
+   "ultimo_autor": "Manu",
+   "comentarios": 2,
+   "dias_parada": 46,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Campanha Øliver's + 99 (promoção/cuponagem)",
@@ -621,7 +852,14 @@
    "responsaveis": [
     "Luiza"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-08",
+   "ultimo_autor": "Luiza",
+   "comentarios": 1,
+   "dias_parada": 39,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "RAJAH · Rotina Social semanal · Otávio + Luiza",
@@ -639,7 +877,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-14",
+   "ultimo_autor": "Manu",
+   "comentarios": 4,
+   "dias_parada": 33,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Atualização Website ØLV (por Ghost)",
@@ -656,7 +901,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "externo",
+   "comentarios": 2,
+   "dias_parada": 38,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Rotina Social semanal · Luiza + Otávio",
@@ -674,7 +926,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-05",
+   "ultimo_autor": "Luiza",
+   "comentarios": 11,
+   "dias_parada": 42,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Refazer Vídeo Institucional do Youtube · entrar no calendário de setembro",
@@ -691,7 +950,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-08-26",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 82,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Copa Rio · Cartela de adesivos · Construir o Design",
@@ -706,7 +972,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-09-17",
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-18",
+   "ultimo_autor": "Gabi",
+   "comentarios": 7,
+   "dias_parada": 59,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Copa Rio · Vouchers de cupom · Construir o Design",
@@ -723,7 +996,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-17",
+   "ultimo_autor": "externo",
+   "comentarios": 5,
+   "dias_parada": 60,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Copa Rio · Roleta premiada · Construir o Design",
@@ -738,7 +1018,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-09-17",
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-17",
+   "ultimo_autor": "externo",
+   "comentarios": 6,
+   "dias_parada": 60,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Copa Rio · Eco bag · Construir o Design",
@@ -755,7 +1042,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-17",
+   "ultimo_autor": "externo",
+   "comentarios": 3,
+   "dias_parada": 60,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Torta de Limão · Banner do cupom no canal próprio (Accon) · Briefing + Design",
@@ -772,7 +1066,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-14",
+   "ultimo_autor": "Gabi",
+   "comentarios": 9,
+   "dias_parada": 63,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Embalagem + Adesivo · Temakeria Universitária",
@@ -787,7 +1088,14 @@
    "atualizada": "2026-11-09",
    "fechada": null,
    "responsaveis": [],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-17",
+   "ultimo_autor": "Gabi",
+   "comentarios": 15,
+   "dias_parada": 60,
+   "sugestao": null,
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Copacabana · Campanha Presente Copa (LP Banana na Neve) + horário nos canais",
@@ -805,7 +1113,14 @@
     "Gabi",
     "Luiza"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-08",
+   "ultimo_autor": "externo",
+   "comentarios": 23,
+   "dias_parada": 8,
+   "sugestao": "Em dia",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "Cotar Brindes Da Inauguração TMK",
@@ -822,7 +1137,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 87,
+   "sugestao": null,
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Calendário de Conteúdo Setembro (Instagram)",
@@ -840,7 +1162,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-05",
+   "ultimo_autor": "Luiza",
+   "comentarios": 26,
+   "dias_parada": 42,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Coyote — Onda 1ª semana set: coordenar disponibilidade (Luísa)",
@@ -857,7 +1186,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-06",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 41,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Coyote — Onda 1ª semana set: contatos e confirmações (Manu)",
@@ -874,7 +1210,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-06",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 41,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Coyote vs. Acme · Chamado de investimento · Bruxa Cósmica (Lapa, R$ ···)",
@@ -891,7 +1234,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-06",
+   "ultimo_autor": "Manu",
+   "comentarios": 5,
+   "dias_parada": 41,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Lapa · Landing de captação · Briefing + Design",
@@ -908,7 +1258,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "externo",
+   "comentarios": 2,
+   "dias_parada": 38,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Datas + Campanhas 2026",
@@ -925,7 +1282,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-08-25",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 83,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Coyote vs. Acme · Fotos comprovatórias da campanha para a agência",
@@ -943,7 +1307,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-22",
+   "ultimo_autor": "Gabi",
+   "comentarios": 3,
+   "dias_parada": 55,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · ReInauguração CF",
@@ -961,7 +1332,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-08-28",
+   "ultimo_autor": "Gabi",
+   "comentarios": 2,
+   "dias_parada": 80,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Campanha cruzada com Øliver's · degustação + panfleto/cupom em São Gonçalo",
@@ -979,7 +1357,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-08-21",
+   "ultimo_autor": "Gabi",
+   "comentarios": 8,
+   "dias_parada": 87,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Campanha cruzada com Øliver's · degustação + panfleto/cupom em São Gonçalo",
@@ -997,7 +1382,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-15",
+   "ultimo_autor": "Gabi",
+   "comentarios": 9,
+   "dias_parada": 62,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Araruama · Giveaway de inauguracao · Briefing + Design",
@@ -1014,7 +1406,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-06",
+   "ultimo_autor": "Manu",
+   "comentarios": 3,
+   "dias_parada": 41,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Coyote · Briefing pros parceiros: vídeos À la carte, Delivery e Cinema",
@@ -1031,7 +1430,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-08-18",
+   "ultimo_autor": "externo",
+   "comentarios": 1,
+   "dias_parada": 90,
+   "sugestao": null,
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Roteiro de abordagem de influenciadores (WhatsApp) · campanhas de agosto",
@@ -1048,7 +1454,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-06",
+   "ultimo_autor": "Manu",
+   "comentarios": 3,
+   "dias_parada": 41,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Revitalização dos destaques (highlights) do perfil do Grupo ROB",
@@ -1065,7 +1478,14 @@
    "responsaveis": [
     "Luiza"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-11-07",
+   "ultimo_autor": "Luiza",
+   "comentarios": 8,
+   "dias_parada": 9,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Manual de Conteúdo para Parceiros/Influenciadores · Agosto/2026",
@@ -1082,7 +1502,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-06",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 41,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Manual do Parceiro + apresentacao Oliver's p/ influencers (4 paginas)",
@@ -1099,7 +1526,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-06",
+   "ultimo_autor": "Manu",
+   "comentarios": 3,
+   "dias_parada": 41,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Campanha O Coyote vs. Acme (Paris Filmes) · Øliver's",
@@ -1116,7 +1550,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-22",
+   "ultimo_autor": "Gabi",
+   "comentarios": 16,
+   "dias_parada": 55,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Cravar quem fatura a conta TMK",
@@ -1133,7 +1574,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-22",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 55,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Coletar os acessos da conta",
@@ -1151,7 +1599,14 @@
     "Gabi",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-22",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 55,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Rebranding da marca · logo v2.0 e identidade",
@@ -1166,7 +1621,14 @@
    "atualizada": "2026-11-09",
    "fechada": null,
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 96,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Campanha Torta de Limão",
@@ -1185,7 +1647,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-19",
+   "ultimo_autor": "Luiza",
+   "comentarios": 9,
+   "dias_parada": 28,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Playbook · Base de lancamento de nova unidade (a partir do case Lapa)",
@@ -1202,7 +1671,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-08-18",
+   "ultimo_autor": "externo",
+   "comentarios": 1,
+   "dias_parada": 90,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Implementar cultura e manual de pós-venda (fluxo parceiro x cliente)",
@@ -1219,7 +1695,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 90,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Copa Rio (Super Vôlei) · Øliver's · Operação + campanha (24, 25 e 26/09)",
@@ -1237,7 +1720,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-02",
+   "ultimo_autor": "Manu",
+   "comentarios": 18,
+   "dias_parada": 45,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Roleta Falaê · Definir prêmios/benefícios com a Lini → Fred implementar",
@@ -1255,7 +1745,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-02",
+   "ultimo_autor": "Gabi",
+   "comentarios": 3,
+   "dias_parada": 45,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Multi-marca · Mapeamento de datas de campanha Setembro",
@@ -1272,7 +1769,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-14",
+   "ultimo_autor": "Gabi",
+   "comentarios": 4,
+   "dias_parada": 63,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Otimizar YouTube (shorts) · manter alcance orgânico",
@@ -1292,7 +1796,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-11-07",
+   "ultimo_autor": "Luiza",
+   "comentarios": 4,
+   "dias_parada": 9,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Coca-Cola · Resultados de vendas por canal (Cocas + Combos Copa)",
@@ -1309,7 +1820,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-02",
+   "ultimo_autor": "Gabi",
+   "comentarios": 2,
+   "dias_parada": 75,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Plano de inauguracao das 3 unidades (Araruama, Saquarema, Sao Pedro)",
@@ -1326,7 +1844,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-02",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 45,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · São Gonçalo · Aumentar ticket médio · produto âncora, escolas, Olive's, benchmark",
@@ -1344,7 +1869,14 @@
     "Gabi",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-08",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 69,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · COTAÇÃO DO KIT HASHI",
@@ -1359,7 +1891,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-09-18",
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-01",
+   "ultimo_autor": "Manu",
+   "comentarios": 3,
+   "dias_parada": 76,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Araruama · Plano de Lançamento (pré-inauguração + inauguração + 3 meses)",
@@ -1376,7 +1915,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-15",
+   "ultimo_autor": "Manu",
+   "comentarios": 8,
+   "dias_parada": 32,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Araruama · Tagline dos Instagrams RJ e SP (Araruama, SG, Lapa)",
@@ -1394,7 +1940,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-19",
+   "ultimo_autor": "Luiza",
+   "comentarios": 10,
+   "dias_parada": 28,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Araruama · Landing de captação + CRM + cupons (hot roll isca + 1ª compra)",
@@ -1411,7 +1964,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-11-08",
+   "ultimo_autor": "externo",
+   "comentarios": 14,
+   "dias_parada": 8,
+   "sugestao": "Prazo vencido: renovar prazo",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Araruama · Brindes + impressos (imã QR, imã 3D, flyer de carro, kit sushi)",
@@ -1426,7 +1986,14 @@
    "atualizada": "2026-11-09",
    "fechada": null,
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-01",
+   "ultimo_autor": "Gabi",
+   "comentarios": 16,
+   "dias_parada": 46,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Araruama · Giveaway de inauguração (3 combos) - Sorteio 08/10",
@@ -1444,7 +2011,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-11-07",
+   "ultimo_autor": "Luiza",
+   "comentarios": 14,
+   "dias_parada": 9,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Material e copy de captacao de patrocinio (cotas Master/Oficial/Apoiadores)",
@@ -1461,7 +2035,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-02",
+   "ultimo_autor": "Gabi",
+   "comentarios": 7,
+   "dias_parada": 45,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Planejamento e agendamento de conteúdo do perfil do Grupo ROB",
@@ -1479,7 +2060,14 @@
     "Manu",
     "Luiza"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-18",
+   "ultimo_autor": "Gabi",
+   "comentarios": 19,
+   "dias_parada": 59,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Comercial · Apresentações de venda · padronizar Ogro + criar Temaqueria",
@@ -1494,7 +2082,14 @@
    "atualizada": "2026-11-09",
    "fechada": null,
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "externo",
+   "comentarios": 4,
+   "dias_parada": 38,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Araruama · Reveillon · ingresso pre-pago na ACOM",
@@ -1511,7 +2106,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Manu",
+   "comentarios": 3,
+   "dias_parada": 0,
+   "sugestao": "Prazo vencido: renovar prazo",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Documento para Parceiros B2B",
@@ -1528,7 +2130,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-08-27",
+   "ultimo_autor": "Gabi",
+   "comentarios": 2,
+   "dias_parada": 81,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Campanha Evento Summit Expansão",
@@ -1545,7 +2154,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-11",
+   "ultimo_autor": "externo",
+   "comentarios": 6,
+   "dias_parada": 66,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Lapa · Plano de Lançamento (pré-inauguração + inauguração + 3 meses)",
@@ -1562,7 +2178,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-01",
+   "ultimo_autor": "Gabi",
+   "comentarios": 6,
+   "dias_parada": 46,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Campanha Inauguração Araruama",
@@ -1579,7 +2202,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "Gabi",
+   "comentarios": 10,
+   "dias_parada": 38,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Objetivo da Campanha + Conferência da anterior/mesmo período + Fechamento de Narrativa + Dores e",
@@ -1596,7 +2226,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-08-28",
+   "ultimo_autor": "Gabi",
+   "comentarios": 2,
+   "dias_parada": 80,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Campanhas Setembro · Temakeria",
@@ -1614,7 +2251,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-01",
+   "ultimo_autor": "Manu",
+   "comentarios": 5,
+   "dias_parada": 76,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Campanhas Setembro · Langs",
@@ -1632,7 +2276,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-18",
+   "ultimo_autor": "Gabi",
+   "comentarios": 12,
+   "dias_parada": 59,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Campanhas Setembro · ØLV",
@@ -1650,7 +2301,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-16",
+   "ultimo_autor": "Gabi",
+   "comentarios": 9,
+   "dias_parada": 61,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Ideias Temakeria (ganchos, conteúdos a replicar, ideias com Vecchi)",
@@ -1668,7 +2326,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-05",
+   "ultimo_autor": "Luiza",
+   "comentarios": 7,
+   "dias_parada": 42,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Rebranding Temakeria? Qual data começa",
@@ -1685,7 +2350,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "externo",
+   "comentarios": 1,
+   "dias_parada": 38,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Gravação Temakeria",
@@ -1703,7 +2375,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-08",
+   "ultimo_autor": "Luiza",
+   "comentarios": 3,
+   "dias_parada": 39,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Panfleto Langs (campanha cruzada ØLV)",
@@ -1718,7 +2397,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-09-19",
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-19",
+   "ultimo_autor": "Manu",
+   "comentarios": 2,
+   "dias_parada": 58,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Manychat = Temakeria",
@@ -1736,7 +2422,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-05",
+   "ultimo_autor": "Luiza",
+   "comentarios": 5,
+   "dias_parada": 42,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Resultado de vendas dos canais",
@@ -1753,7 +2446,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-15",
+   "ultimo_autor": "Gabi",
+   "comentarios": 4,
+   "dias_parada": 62,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Ativar Influencers — Campanha Coyote vs. Acme",
@@ -1771,7 +2471,14 @@
     "Manu",
     "Luiza"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-06",
+   "ultimo_autor": "Manu",
+   "comentarios": 6,
+   "dias_parada": 41,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Campanha Expansão ROB/OLV e marcas",
@@ -1788,7 +2495,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Manu",
+   "comentarios": 11,
+   "dias_parada": 0,
+   "sugestao": "Prazo vencido: renovar prazo",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Ativações de Collabs, Mídias, Jornais, Podcasts, Perfis de Notícias",
@@ -1805,7 +2519,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 89,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Campanha Filme · Coyote vs. Acme",
@@ -1822,7 +2543,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-22",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 55,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "RAJAH · Calendário Setembro · Rajah",
@@ -1840,7 +2568,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-08",
+   "ultimo_autor": "Luiza",
+   "comentarios": 5,
+   "dias_parada": 39,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Campanha Reservas Maricá + SG",
@@ -1858,7 +2593,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-06",
+   "ultimo_autor": "Manu",
+   "comentarios": 4,
+   "dias_parada": 41,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Apresentação resultados Lapa",
@@ -1875,7 +2617,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-22",
+   "ultimo_autor": "Gabi",
+   "comentarios": 14,
+   "dias_parada": 25,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Cultura Inglesa",
@@ -1892,7 +2641,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 89,
+   "sugestao": null,
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Resultado de vendas dos canais · Final da campanha 27/09",
@@ -1909,7 +2665,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-02",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 45,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Revitalização Destaques Rodízio + À La Carte",
@@ -1926,7 +2689,14 @@
    "responsaveis": [
     "Luiza"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-11-07",
+   "ultimo_autor": "Luiza",
+   "comentarios": 8,
+   "dias_parada": 9,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Matheus · Cartão de confirmação de reservas",
@@ -1941,7 +2711,14 @@
    "atualizada": "2026-11-09",
    "fechada": null,
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-18",
+   "ultimo_autor": "externo",
+   "comentarios": 1,
+   "dias_parada": 59,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Mês dos Pais · ØLV",
@@ -1958,7 +2735,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-09",
+   "ultimo_autor": "Gabi",
+   "comentarios": 2,
+   "dias_parada": 68,
+   "sugestao": null,
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · COPA RIO",
@@ -1975,7 +2759,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-01",
+   "ultimo_autor": "Gabi",
+   "comentarios": 3,
+   "dias_parada": 46,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Gravação LANGS",
@@ -1992,7 +2783,14 @@
    "responsaveis": [
     "Luiza"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-19",
+   "ultimo_autor": "Luiza",
+   "comentarios": 1,
+   "dias_parada": 28,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "RAJAH · Ideias pra distribuir no calendário",
@@ -2009,7 +2807,14 @@
    "responsaveis": [
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-11",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 66,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Pulseira Rodízio + Roleta de Mesa",
@@ -2024,7 +2829,14 @@
    "atualizada": "2026-11-09",
    "fechada": null,
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-30",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 47,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Postar toda quinta-feira — Promo 99",
@@ -2041,7 +2853,14 @@
    "responsaveis": [
     "Luiza"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-08",
+   "ultimo_autor": "Luiza",
+   "comentarios": 1,
+   "dias_parada": 39,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Campanha Reservas · Langs (aniversário → WhatsApp)",
@@ -2058,7 +2877,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-13",
+   "ultimo_autor": "Luiza",
+   "comentarios": 5,
+   "dias_parada": 3,
+   "sugestao": "Prazo vencido: renovar prazo",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Reservas · Controle de Tráfego (WhatsApp)",
@@ -2075,7 +2901,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "externo",
+   "comentarios": 3,
+   "dias_parada": 38,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Campanha cruzada · Acompanhar resultados + trackear cupons (ØLV × Lang's × Temakeria)",
@@ -2092,7 +2925,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-02",
+   "ultimo_autor": "Gabi",
+   "comentarios": 2,
+   "dias_parada": 45,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Coca-Cola · Compilar e enviar fotos das experiências + dados de marketplace + mídias do fechamento",
@@ -2109,7 +2949,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-07",
+   "ultimo_autor": "Gabi",
+   "comentarios": 2,
+   "dias_parada": 40,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Cupom secreto no iFood (tática de tracking)",
@@ -2126,7 +2973,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-14",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 63,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Criativos dos anúncios de tráfego (João/estáticos + Luiza/vídeos)",
@@ -2144,7 +2998,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Manu",
+   "comentarios": 19,
+   "dias_parada": 0,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Summit · Landing page do evento (Thiago)",
@@ -2161,7 +3022,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "externo",
+   "comentarios": 3,
+   "dias_parada": 38,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "Alinhar fotos - Big Hot de banana com doce de leite",
@@ -2179,7 +3047,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-08",
+   "ultimo_autor": "Luiza",
+   "comentarios": 11,
+   "dias_parada": 39,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Painel único de funil (BI × Marketing) · cupons, tráfego, reservas e resultado por ação",
@@ -2196,7 +3071,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "externo",
+   "comentarios": 6,
+   "dias_parada": 38,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Comunicado interno · datas comerciais e campanhas até dez/2026",
@@ -2213,7 +3095,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-07",
+   "ultimo_autor": "Gabi",
+   "comentarios": 8,
+   "dias_parada": 40,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Semana do Cliente · Dia do Cliente 15/09",
@@ -2230,7 +3119,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-22",
+   "ultimo_autor": "Gabi",
+   "comentarios": 2,
+   "dias_parada": 55,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Alcântara · 2 anos da unidade · ação de venda no canal próprio",
@@ -2247,7 +3143,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-02",
+   "ultimo_autor": "Gabi",
+   "comentarios": 7,
+   "dias_parada": 45,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Report de fechamento mensal por unidade (Databite) · até o dia 20",
@@ -2264,7 +3167,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-01",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 46,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · GATE · Reprecificação + cardápio novo ·",
@@ -2281,7 +3191,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-01",
+   "ultimo_autor": "Gabi",
+   "comentarios": 8,
+   "dias_parada": 46,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · São Gonçalo · Benefício estudante e professor · margem, validação na loja e traqueamento",
@@ -2298,7 +3215,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-01",
+   "ultimo_autor": "Gabi",
+   "comentarios": 2,
+   "dias_parada": 46,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Semana do Cliente · Dia do Cliente 15/09",
@@ -2315,7 +3239,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-22",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 55,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Grade Fixa Semanal · dias temáticos no salão",
@@ -2333,7 +3264,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-15",
+   "ultimo_autor": "Gabi",
+   "comentarios": 2,
+   "dias_parada": 62,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Cardápio & Produto · Novidades -  setembro a dezembro",
@@ -2350,7 +3288,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-13",
+   "ultimo_autor": "Luiza",
+   "comentarios": 5,
+   "dias_parada": 3,
+   "sugestao": "Em dia",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Carrossel - Grade Semanal · Criativo da grade de dias fixos",
@@ -2365,7 +3310,14 @@
    "atualizada": "2026-11-09",
    "fechada": null,
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-19",
+   "ultimo_autor": "Manu",
+   "comentarios": 2,
+   "dias_parada": 58,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Cardápio · Arte do papel de bandeja (salão) · Briefing + Design",
@@ -2380,7 +3332,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-10-14",
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-08",
+   "ultimo_autor": "externo",
+   "comentarios": 5,
+   "dias_parada": 39,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Estudantes B2B - ESCOLAS · Agosto + Setembro - Benefício Langs",
@@ -2397,7 +3356,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-11-13",
+   "ultimo_autor": "Luiza",
+   "comentarios": 4,
+   "dias_parada": 3,
+   "sugestao": "Prazo vencido: renovar prazo",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Estudante · Mapear e contatar as instituições vizinhas",
@@ -2414,7 +3380,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-11-13",
+   "ultimo_autor": "Luiza",
+   "comentarios": 5,
+   "dias_parada": 3,
+   "sugestao": "Prazo vencido: renovar prazo",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Dia do Cliente · 15/09",
@@ -2433,7 +3406,14 @@
     "Gabi",
     "Luiza"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-22",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 55,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Black Friday e hambúrguer de novembro",
@@ -2450,7 +3430,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 82,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Ações de verão (pós-praia)",
@@ -2467,7 +3454,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 82,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Conteúdo com a nova colaboradora (novidades em vídeo)",
@@ -2484,7 +3478,14 @@
    "responsaveis": [
     "Luiza"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-08-27",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 81,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Lapa · Panfleto de pedidos · Briefing + Design",
@@ -2501,7 +3502,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 82,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Lapa · Flyer dobrável de carro · Briefing + Design",
@@ -2518,7 +3526,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 82,
+   "sugestao": null,
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Lapa · Ímã de geladeira · Briefing + Design",
@@ -2535,7 +3550,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 82,
+   "sugestao": null,
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "[CONTEÚDO] - Artes para instagram da Rajah",
@@ -2552,7 +3574,14 @@
    "responsaveis": [
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-08",
+   "ultimo_autor": "externo",
+   "comentarios": 4,
+   "dias_parada": 39,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Rodízio + Reservas · Briefing + Design (vídeo + arte)",
@@ -2570,7 +3599,14 @@
     "Manu",
     "Luiza"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-06",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 41,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "Ogro Steaks · Onboarding (full service)",
@@ -2590,7 +3626,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-13",
+   "ultimo_autor": "Manu",
+   "comentarios": 20,
+   "dias_parada": 3,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Calendário Setembro · Temakeria",
@@ -2607,7 +3650,14 @@
    "responsaveis": [
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-05",
+   "ultimo_autor": "Luiza",
+   "comentarios": 10,
+   "dias_parada": 42,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Rotina Social semanal · Luiza + Otávio",
@@ -2625,7 +3675,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-05",
+   "ultimo_autor": "Luiza",
+   "comentarios": 11,
+   "dias_parada": 42,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Calendário Setembro · Langs",
@@ -2642,7 +3699,14 @@
    "responsaveis": [
     "Luiza"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-05",
+   "ultimo_autor": "Luiza",
+   "comentarios": 5,
+   "dias_parada": 42,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Copa Rio · Brindes e criativos (7 peças)",
@@ -2660,7 +3724,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-22",
+   "ultimo_autor": "Gabi",
+   "comentarios": 6,
+   "dias_parada": 55,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Copa Rio · Viseira · Construir a Base (briefing)",
@@ -2678,7 +3749,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-06",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 41,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Copa Rio · Adesivo pro stand · Briefing + Design",
@@ -2695,7 +3773,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-17",
+   "ultimo_autor": "externo",
+   "comentarios": 4,
+   "dias_parada": 60,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Rotina Social semanal · Luiza + Otávio",
@@ -2714,7 +3799,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-05",
+   "ultimo_autor": "Luiza",
+   "comentarios": 7,
+   "dias_parada": 42,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "Ogro Steaks · Consolidação das 3 calls de 09/09 (estratégia, perfil e setup)",
@@ -2731,7 +3823,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-29",
+   "ultimo_autor": "externo",
+   "comentarios": 1,
+   "dias_parada": 48,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Semana do Cliente · Posts + briefing",
@@ -2748,7 +3847,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-18",
+   "ultimo_autor": "externo",
+   "comentarios": 4,
+   "dias_parada": 59,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Rotina Social semanal · Luiza + Otávio",
@@ -2766,7 +3872,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-05",
+   "ultimo_autor": "Luiza",
+   "comentarios": 15,
+   "dias_parada": 42,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · Comunidade no Instagram · canal com conteúdo regular e exclusivo + embaixadores",
@@ -2785,7 +3898,14 @@
     "Gabi",
     "Victor"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 66,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · Atendimento · manual pros franqueados + sistema de feedback (Campos com 9% de reclamação)",
@@ -2803,7 +3923,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 66,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Araruama · Brindes · Ímã de geladeira com QR code",
@@ -2818,7 +3945,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-09-18",
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-24",
+   "ultimo_autor": "Gabi",
+   "comentarios": 12,
+   "dias_parada": 53,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Auditoria completa da conta (S7)",
@@ -2836,7 +3970,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "externo",
+   "comentarios": 4,
+   "dias_parada": 38,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Auditoria completa da conta (S7)",
@@ -2854,7 +3995,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "externo",
+   "comentarios": 1,
+   "dias_parada": 38,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "Ogro Steaks · Auditoria completa da conta (S7)",
@@ -2872,7 +4020,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-11-12",
+   "ultimo_autor": "Luiza",
+   "comentarios": 7,
+   "dias_parada": 4,
+   "sugestao": "Prazo vencido: renovar prazo",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Auditoria completa da conta (S7)",
@@ -2890,7 +4045,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "externo",
+   "comentarios": 1,
+   "dias_parada": 38,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Auditoria completa da conta (S7)",
@@ -2908,7 +4070,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "externo",
+   "comentarios": 1,
+   "dias_parada": 38,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · Rotina Social semanal · Luiza + Otávio",
@@ -2926,7 +4095,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-05",
+   "ultimo_autor": "Luiza",
+   "comentarios": 13,
+   "dias_parada": 42,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Card Games Pokémon · Produção de conteúdo · Evento (15/09)",
@@ -2944,7 +4120,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-08",
+   "ultimo_autor": "Luiza",
+   "comentarios": 3,
+   "dias_parada": 39,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Semana do Cliente · Criação de banner",
@@ -2959,7 +4142,14 @@
    "atualizada": "2026-11-09",
    "fechada": null,
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-14",
+   "ultimo_autor": "Manu",
+   "comentarios": 3,
+   "dias_parada": 63,
+   "sugestao": null,
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Cardápio TMK",
@@ -2974,7 +4164,14 @@
    "atualizada": "2026-11-09",
    "fechada": null,
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-15",
+   "ultimo_autor": "Manu",
+   "comentarios": 13,
+   "dias_parada": 32,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "🎨 🍣 TMK · Araruama · Brindes · Panfleto de pedidos (cardapio delivery)",
@@ -2989,7 +4186,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-09-18",
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-24",
+   "ultimo_autor": "Gabi",
+   "comentarios": 8,
+   "dias_parada": 53,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "🎨 🍣 TMK · Araruama · Brindes · Panfleto de pedidos · Construir o Design",
@@ -3004,7 +4208,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-09-03",
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-08-28",
+   "ultimo_autor": "Manu",
+   "comentarios": 3,
+   "dias_parada": 80,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "🎨 🍣 TMK · Araruama · Brindes · Panfleto de pedidos · Aprovacao + Ajustes",
@@ -3019,7 +4230,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-09-03",
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 83,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "🎨 🍣 TMK · Araruama · Brindes · Panfleto de pedidos · Entregar ao Solicitante (arquivo pra grafica)",
@@ -3034,7 +4252,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-09-03",
    "responsaveis": [],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 83,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "EPIC7 · O que só o ROB destrava (Set26) · lista única pra Mathias, Julia e Gustavo",
@@ -3051,7 +4276,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "externo",
+   "comentarios": 5,
+   "dias_parada": 38,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · Calendário de Conteúdo · Setembro",
@@ -3068,7 +4300,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-29",
+   "ultimo_autor": "Luiza",
+   "comentarios": 9,
+   "dias_parada": 48,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · Destaques + Bio do Instagram · atualização",
@@ -3085,7 +4324,14 @@
    "responsaveis": [
     "Luiza"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-08",
+   "ultimo_autor": "Luiza",
+   "comentarios": 5,
+   "dias_parada": 39,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "🔹 🍕 OLV · Maricá · Ativação Cross21 · Postagem do Evento",
@@ -3102,7 +4348,14 @@
    "responsaveis": [
     "Luiza"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-10-08",
+   "ultimo_autor": "Luiza",
+   "comentarios": 7,
+   "dias_parada": 39,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "🧭 🥩 OGRO · São Gonçalo · Lançamento da unidade (pré-inauguração + inauguração + pós)",
@@ -3114,14 +4367,21 @@
    "prazo": null,
    "inicio": "2026-09-17",
    "criada": "2026-09-17",
-   "atualizada": "2026-11-16",
+   "atualizada": "2026-11-17",
    "fechada": null,
    "responsaveis": [
     "Manu",
     "Gabi",
     "Victor"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-17",
+   "ultimo_autor": "Victor",
+   "comentarios": 31,
+   "dias_parada": -1,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "🎨 🏢 ROB · Multi-marca · Artes de material impresso e uniforme para franqueados",
@@ -3136,7 +4396,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-10-08",
    "responsaveis": [],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-24",
+   "ultimo_autor": "Gabi",
+   "comentarios": 10,
+   "dias_parada": 53,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "🧭 🥩 OGRO · Projetos da Bárbara (CMO Ogro) · Protocolo de Lançamento + Curso de Treinamento + Kit de Boas-Vindas",
@@ -3155,7 +4422,14 @@
     "Gabi",
     "Victor"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-09-21",
+   "ultimo_autor": "Gabi",
+   "comentarios": 2,
+   "dias_parada": 56,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "🧭 🥩 OGRO · Protocolo de Lançamento · playbook de 5 fases (D-10 → D+14)",
@@ -3174,7 +4448,14 @@
     "Gabi",
     "Victor"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-21",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 56,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "🎨 🥩 OGRO · Mídia Kit / Kit de Boas-Vindas para novos franqueados",
@@ -3192,7 +4473,14 @@
     "Manu",
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-21",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 56,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Parceiros · Controle mensal · Agosto/2026",
@@ -3209,7 +4497,14 @@
    "responsaveis": [
     "Manu"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-09-10",
+   "ultimo_autor": "Manu",
+   "comentarios": 9,
+   "dias_parada": 67,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "🧭 🍕 OLV · Doc compilado · Manual de PARCEIROS",
@@ -3226,7 +4521,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-08-28",
+   "ultimo_autor": "Gabi",
+   "comentarios": 1,
+   "dias_parada": 80,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Salão · Padrão de experiência · broche, carta de vinhos, cardápio, QR de mesa, uniforme por cargo",
@@ -3243,7 +4545,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 47,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Planejamento Novembro e Dezembro · ENEM, Black Friday, verão, fuga da ceia e barcos",
@@ -3260,7 +4569,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-12",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 4,
+   "sugestao": "Prazo vencido: renovar prazo",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Aniversário 9 anos · 01 a 09/11 · ticket premiado + envelopes no salão + imprensa",
@@ -3280,7 +4596,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-11-04",
+   "ultimo_autor": "Gabi",
+   "comentarios": 15,
+   "dias_parada": 12,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Calendário Dezembro · Natal com Coca-Cola, pizza sazonal e aniversários de Niterói e Copa",
@@ -3300,7 +4623,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Manu",
+   "comentarios": 3,
+   "dias_parada": 0,
+   "sugestao": "Em dia",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "📈 TMK · Virada de verba 09/10 (Araruama: #01 sobe + #02/#03 ligam)",
@@ -3315,7 +4645,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-10-09",
    "responsaveis": [],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "externo",
+   "comentarios": 5,
+   "dias_parada": 38,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Rotina Social semanal · Luiza + Otávio · 05 a 11/10",
@@ -3333,7 +4670,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-15",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 32,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Rotina Social semanal · Luiza + Otávio · 05 a 11/10",
@@ -3352,7 +4696,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-15",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 32,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Rotina Social semanal · Luiza + Otávio · 05 a 11/10",
@@ -3370,7 +4721,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-15",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 32,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · Rotina Social semanal · Luiza + Otávio · 05 a 11/10",
@@ -3388,7 +4746,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-15",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 32,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Rotina Social semanal · Luiza + Otávio · 05 a 11/10",
@@ -3406,7 +4771,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-15",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 32,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "📊 OLV · Report 90 dias · investimento por canal e unidade (jul-set/26, pedido do Mathias)",
@@ -3421,7 +4793,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-10-08",
    "responsaveis": [],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-08",
+   "ultimo_autor": "externo",
+   "comentarios": 1,
+   "dias_parada": 39,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "✅ TMK · Araruama · estrutura Out26 e anúncios de topo/meio no ar",
@@ -3436,7 +4815,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-10-09",
    "responsaveis": [],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 38,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "✅ TMK · Araruama · correspondência avançada do Lead (Tally → hash → pixel)",
@@ -3451,7 +4837,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-10-09",
    "responsaveis": [],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 38,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "✅ TMK · Araruama · fundo de funil na inauguração (cardápio + Big Hot no lead)",
@@ -3466,7 +4859,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-10-09",
    "responsaveis": [],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 38,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "📣 OLV · Meta · delivery por conjunto, regras por ID, #09 corrigida e Budget Out26 (08-09/10)",
@@ -3481,7 +4881,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-10-09",
    "responsaveis": [],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "externo",
+   "comentarios": 1,
+   "dias_parada": 38,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "🔎 OLV · Google · conta reconstruída: Marca + Conversao Reserva por unidade (TagMe) + Delivery em 2º plano (09/10)",
@@ -3496,7 +4903,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-10-09",
    "responsaveis": [],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "externo",
+   "comentarios": 1,
+   "dias_parada": 38,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "📲 OLV + LANGS + TMK · Gravação de conteúdo · quinta 15/10",
@@ -3514,7 +4928,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-29",
+   "ultimo_autor": "Luiza",
+   "comentarios": 4,
+   "dias_parada": 18,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "✅ TMK · Araruama · pixel no CardápioWeb + fundo vira Vendas (Purchase) + dayparting 17h",
@@ -3529,7 +4950,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-10-14",
    "responsaveis": [],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-14",
+   "ultimo_autor": "externo",
+   "comentarios": 1,
+   "dias_parada": 33,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "🍕 OLV · Copacabana · Presente Copa no ar: Lead + cardápio Cold e Warm, 35 públicos, tracking e budget Out26 (14/10)",
@@ -3544,7 +4972,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-10-14",
    "responsaveis": [],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-14",
+   "ultimo_autor": "externo",
+   "comentarios": 1,
+   "dias_parada": 33,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Rotina Social semanal · Luiza + Otávio · 15 a 23/10",
@@ -3562,7 +4997,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-26",
+   "ultimo_autor": "Luiza",
+   "comentarios": 6,
+   "dias_parada": 21,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Rotina Social semanal · Luiza + Otávio · 15 a 23/10",
@@ -3580,7 +5022,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-26",
+   "ultimo_autor": "Luiza",
+   "comentarios": 4,
+   "dias_parada": 21,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · Rotina Social semanal · Luiza + Otávio · 15 a 23/10",
@@ -3598,7 +5047,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-26",
+   "ultimo_autor": "Luiza",
+   "comentarios": 4,
+   "dias_parada": 21,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Rotina Social semanal · Luiza + Otávio · 15 a 23/10",
@@ -3616,7 +5072,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-26",
+   "ultimo_autor": "Luiza",
+   "comentarios": 4,
+   "dias_parada": 21,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Rotina Social semanal · Luiza + Otávio · 15 a 23/10",
@@ -3634,7 +5097,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-26",
+   "ultimo_autor": "Luiza",
+   "comentarios": 2,
+   "dias_parada": 21,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Piratininga · Giveaway de inauguração",
@@ -3653,7 +5123,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 32,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Piratininga · Landing de captação + produto isca",
@@ -3671,7 +5148,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 32,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Piratininga · Criativos de inauguração + budget de tráfego",
@@ -3689,7 +5173,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 32,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Piratininga · Impressos e brindes de inauguração",
@@ -3707,7 +5198,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 32,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · São Gonçalo · Giveaway de inauguração",
@@ -3725,7 +5223,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Manu",
+   "comentarios": 3,
+   "dias_parada": 0,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · São Gonçalo · Landing de captação + produto isca",
@@ -3737,13 +5242,20 @@
    "prazo": null,
    "inicio": "2026-10-15",
    "criada": "2026-10-15",
-   "atualizada": "2026-11-16",
+   "atualizada": "2026-11-17",
    "fechada": null,
    "responsaveis": [
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-11-17",
+   "ultimo_autor": "Victor",
+   "comentarios": 9,
+   "dias_parada": -1,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · São Gonçalo · Criativos de inauguração + budget de tráfego",
@@ -3755,13 +5267,20 @@
    "prazo": null,
    "inicio": "2026-10-15",
    "criada": "2026-10-15",
-   "atualizada": "2026-11-16",
+   "atualizada": "2026-11-17",
    "fechada": null,
    "responsaveis": [
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-11-17",
+   "ultimo_autor": "Victor",
+   "comentarios": 14,
+   "dias_parada": -1,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · São Gonçalo · Impressos e brindes de inauguração",
@@ -3779,7 +5298,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": true
+   "sub": true,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Manu",
+   "comentarios": 2,
+   "dias_parada": 0,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "🤝 OLV + TMK + OGRO · avaliar Bruna Lucas (@_brunal) como parceira (retomada out26)",
@@ -3797,7 +5323,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 27,
+   "sugestao": "Em dia",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "🎨 OGRO · Destaques UNIDADES + HORÁRIOS · 12 unidades (out26)",
@@ -3814,7 +5347,14 @@
    "responsaveis": [
     "Luiza"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-07",
+   "ultimo_autor": "Luiza",
+   "comentarios": 1,
+   "dias_parada": 9,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Rotina Social semanal · Luiza + Otávio · 26 a 30/10",
@@ -3832,7 +5372,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-07",
+   "ultimo_autor": "Luiza",
+   "comentarios": 2,
+   "dias_parada": 9,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "LANGS · Rotina Social semanal · Luiza + Otávio · 26 a 30/10",
@@ -3849,7 +5396,14 @@
    "responsaveis": [
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-07",
+   "ultimo_autor": "Luiza",
+   "comentarios": 2,
+   "dias_parada": 9,
+   "sugestao": "Prazo vencido: renovar prazo",
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "TMK · Rotina Social semanal · Luiza + Otávio · 26 a 30/10",
@@ -3867,7 +5421,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-07",
+   "ultimo_autor": "Luiza",
+   "comentarios": 1,
+   "dias_parada": 9,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · Rotina Social semanal · Luiza + Otávio · 26 a 30/10",
@@ -3885,7 +5446,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-07",
+   "ultimo_autor": "Luiza",
+   "comentarios": 3,
+   "dias_parada": 9,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Rotina Social semanal · Luiza + Otávio · 26 a 30/10",
@@ -3903,7 +5471,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-07",
+   "ultimo_autor": "Luiza",
+   "comentarios": 1,
+   "dias_parada": 9,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "🔴 OLV · Meta · spend_cap da rede com R$ ··· livres: a conta para entre qui 29 e sex 30/10",
@@ -3918,7 +5493,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-10-27",
    "responsaveis": [],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-27",
+   "ultimo_autor": "externo",
+   "comentarios": 1,
+   "dias_parada": 20,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "🔁 OLV · Meta · #09 remarketing: excluir quem comprou em 30 dias e ampliar visitou o delivery para 180 dias",
@@ -3933,7 +5515,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-10-27",
    "responsaveis": [],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-27",
+   "ultimo_autor": "externo",
+   "comentarios": 1,
+   "dias_parada": 20,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "📲 TMK · Araruama · Almoço: 3 novos criativos + pedido de almoço pras permutas (out-nov26)",
@@ -3951,7 +5540,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-30",
+   "ultimo_autor": "Otávio",
+   "comentarios": 4,
+   "dias_parada": 17,
+   "sugestao": "Prazo vencido: renovar prazo",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "🔧 TMK · Araruama · compra do cardápio contada 2× (CardápioWeb dispara o pixel sozinho)",
@@ -3966,7 +5562,14 @@
    "atualizada": "2026-11-09",
    "fechada": "2026-10-30",
    "responsaveis": [],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-30",
+   "ultimo_autor": "externo",
+   "comentarios": 2,
+   "dias_parada": 17,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
   },
   {
    "titulo": "OLV · Sorteio · PS5, bike elétrica ou Dyson · autorização + página",
@@ -3983,7 +5586,14 @@
    "responsaveis": [
     "Gabi"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-10-31",
+   "ultimo_autor": "Gabi",
+   "comentarios": 4,
+   "dias_parada": 16,
+   "sugestao": "Prazo vencido: renovar prazo",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "OGRO · Calendário de Conteúdo · Novembro",
@@ -4002,7 +5612,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Manu",
+   "comentarios": 6,
+   "dias_parada": 0,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "ROB · Calendário de Conteúdo Novembro (Instagram)",
@@ -4021,7 +5638,14 @@
     "Luiza",
     "Otávio"
    ],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Manu",
+   "comentarios": 6,
+   "dias_parada": 0,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": false
   },
   {
    "titulo": "Setup estacao Akira: teste de ponta 4/4 (issue de teste)",
@@ -4036,8 +5660,544 @@
    "atualizada": "2026-11-12",
    "fechada": null,
    "responsaveis": [],
-   "sub": false
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 4,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": false
+  },
+  {
+   "titulo": "Site: só Cardápio Digital (sem iFood e 99Food), /bio com o site oficial no topo e /unidades sem emenda no fundo",
+   "url": "https://github.com/dev-seven7/cs-ogro-website/issues/12",
+   "repo": "cs-ogro-website",
+   "marca": "Sem marca",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-16",
+   "atualizada": "2026-11-16",
+   "fechada": "2026-11-16",
+   "responsaveis": [],
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 0,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
+  },
+  {
+   "titulo": "Rodapé do site: crédito \"Feito por Victor Pusanovsky Okada\" de volta",
+   "url": "https://github.com/dev-seven7/cs-ogro-website/issues/14",
+   "repo": "cs-ogro-website",
+   "marca": "Sem marca",
+   "status": "Done",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-16",
+   "atualizada": "2026-11-16",
+   "fechada": "2026-11-16",
+   "responsaveis": [],
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 0,
+   "sugestao": null,
+   "estado_github": "CLOSED",
+   "fora_do_board": false
+  },
+  {
+   "titulo": "Brand-kit Lang's 1774: completar pro Protocolo-19 (até 17/11)",
+   "url": "https://github.com/dev-seven7/cs-langs/issues/88",
+   "repo": "cs-langs",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-12",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": false,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Manu",
+   "comentarios": 2,
+   "dias_parada": 0,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "ROB · Tráfego · Renovação de criativos de expansão · novo drop (Nov26)",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/127",
+   "repo": "cs-rob-food",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-09",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Luiza",
+   "comentarios": 5,
+   "dias_parada": 0,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "Design · Demandas da Julia (freela) · Øliver's, Gatola e Ogro SG · novembro/2026",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/129",
+   "repo": "cs-rob-food",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-11",
+   "atualizada": "2026-11-11",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Victor"
+   ],
+   "sub": false,
+   "ultimo_comentario": "2026-11-11",
+   "ultimo_autor": "Victor",
+   "comentarios": 1,
+   "dias_parada": 5,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "[ROB] Identidade visual de Øliver's, Temakeria e Lang's pra produção de conteúdo",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/130",
+   "repo": "cs-rob-food",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-12",
+   "atualizada": "2026-11-12",
+   "fechada": null,
+   "responsaveis": [
+    "Otávio"
+   ],
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 4,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "Brand-kit Grupo ROB: completar pro Protocolo-19 (até 17/11)",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/131",
+   "repo": "cs-rob-food",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-12",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Manu"
+   ],
+   "sub": false,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 0,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "🎨 🏢 ROB · Expansão · Panfletos \"Seja um franqueado\" por marca (Øliver's primeiro) + QR nas embalagens",
+   "url": "https://github.com/dev-seven7/cs-rob-food/issues/132",
+   "repo": "cs-rob-food",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-16",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [],
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 0,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "Parceiros · Controle mensal · Novembro/2026",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/258",
+   "repo": "cs-olivers",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-06",
+   "atualizada": "2026-11-12",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Luiza"
+   ],
+   "sub": false,
+   "ultimo_comentario": "2026-11-12",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 4,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "OLV · Tráfego · Renovação de criativos · novo drop (Nov26)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/259",
+   "repo": "cs-olivers",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-09",
+   "atualizada": "2026-11-09",
+   "fechada": null,
+   "responsaveis": [
+    "Luiza",
+    "Otávio"
+   ],
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 7,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "Brand-kit Øliver's: completar pro Protocolo-19 (até 17/11)",
+   "url": "https://github.com/dev-seven7/cs-olivers/issues/260",
+   "repo": "cs-olivers",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-12",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Luiza"
+   ],
+   "sub": false,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 0,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "Araruama e Lapa · adicionar ao bio quando as lojas abrirem",
+   "url": "https://github.com/dev-seven7/cs-tmk-bio/issues/2",
+   "repo": "cs-tmk-bio",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-08-28",
+   "atualizada": "2026-10-09",
+   "fechada": null,
+   "responsaveis": [],
+   "sub": false,
+   "ultimo_comentario": "2026-10-09",
+   "ultimo_autor": "externo",
+   "comentarios": 1,
+   "dias_parada": 38,
+   "sugestao": "Parada há 30+ dias: fechar ou retomar",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "OGRO · Parceiros · Controle mensal · Novembro/2026",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/34",
+   "repo": "cs-ogro-steaks",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-06",
+   "atualizada": "2026-11-06",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Luiza"
+   ],
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 10,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "🧭 🥩 OGRO · Plano de conteúdo da semana 12–20/11 · inauguração SG + Corrida do Pelé + BF (Victor)",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/36",
+   "repo": "cs-ogro-steaks",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-12",
+   "atualizada": "2026-11-12",
+   "fechada": null,
+   "responsaveis": [
+    "Victor"
+   ],
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 4,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "🎨 🥩 OGRO · São Gonçalo · Briefings dos 15 criativos do funil ToFu/MoFu/BoFu (4h)",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/37",
+   "repo": "cs-ogro-steaks",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-12",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Victor"
+   ],
+   "sub": true,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 0,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "📱 🥩 OGRO · Corrida do Pelé 14/11 · pauta de captação + Reels pós-evento no CapCut (4h)",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/38",
+   "repo": "cs-ogro-steaks",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-12",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Victor"
+   ],
+   "sub": true,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Luiza",
+   "comentarios": 3,
+   "dias_parada": 0,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "🧭 🥩 OGRO · Caderno do Victor · aplicar os ajustes da Manu e trazer pro repo (tirar o link público do ar) (2h)",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/39",
+   "repo": "cs-ogro-steaks",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-12",
+   "atualizada": "2026-11-12",
+   "fechada": null,
+   "responsaveis": [
+    "Victor"
+   ],
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 4,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "📱 🥩 OGRO · Pauta da gravação de fim de novembro (Jimmy + Igor) · cobrir dez/jan + \"Já deu por hoje\" especial de Natal (4h)",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/40",
+   "repo": "cs-ogro-steaks",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-12",
+   "atualizada": "2026-11-13",
+   "fechada": null,
+   "responsaveis": [
+    "Victor"
+   ],
+   "sub": false,
+   "ultimo_comentario": "2026-11-13",
+   "ultimo_autor": "Victor",
+   "comentarios": 1,
+   "dias_parada": 3,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "🧭 🥩 OGRO · Calendário editorial de dezembro · primeiro feed no modelo novo (quadros fixos + Natal + virada) (4h)",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/41",
+   "repo": "cs-ogro-steaks",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-12",
+   "atualizada": "2026-11-13",
+   "fechada": null,
+   "responsaveis": [
+    "Victor"
+   ],
+   "sub": false,
+   "ultimo_comentario": "2026-11-13",
+   "ultimo_autor": "Victor",
+   "comentarios": 2,
+   "dias_parada": 3,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "Brand-kit Ogro Steaks: completar pro Protocolo-19 (até 17/11)",
+   "url": "https://github.com/dev-seven7/cs-ogro-steaks/issues/43",
+   "repo": "cs-ogro-steaks",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-12",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Victor"
+   ],
+   "sub": false,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Manu",
+   "comentarios": 2,
+   "dias_parada": 0,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "TMK · Parceiros · Controle mensal · Novembro/2026",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/250",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-06",
+   "atualizada": "2026-11-07",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Luiza"
+   ],
+   "sub": false,
+   "ultimo_comentario": null,
+   "ultimo_autor": "?",
+   "comentarios": 0,
+   "dias_parada": 10,
+   "sugestao": "Sem prazo: definir",
+   "estado_github": "OPEN",
+   "fora_do_board": true
+  },
+  {
+   "titulo": "Brand-kit Temakeria Universitária: completar pro Protocolo-19 (até 17/11)",
+   "url": "https://github.com/dev-seven7/cs-temakeria-universitaria/issues/251",
+   "repo": "cs-temakeria-universitaria",
+   "marca": "Sem marca",
+   "status": "Backlog",
+   "prioridade": null,
+   "prazo": null,
+   "inicio": null,
+   "criada": "2026-11-12",
+   "atualizada": "2026-11-16",
+   "fechada": null,
+   "responsaveis": [
+    "Manu",
+    "Luiza"
+   ],
+   "sub": false,
+   "ultimo_comentario": "2026-11-16",
+   "ultimo_autor": "Manu",
+   "comentarios": 1,
+   "dias_parada": 0,
+   "sugestao": "Parece concluída: confirmar e fechar",
+   "estado_github": "OPEN",
+   "fora_do_board": true
   }
  ],
- "removidas_por_privacidade": 49
+ "removidas_por_privacidade": 47
 }

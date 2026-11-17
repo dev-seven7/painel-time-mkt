@@ -1,3 +1,6 @@
 gerar_dados.py
 atualizar.sh
 .DS_Store
+auditoria-privada.json
+auditoria-*.md
+auditoria-issues.html
